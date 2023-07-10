@@ -3,13 +3,15 @@ title: Heidi Huang
 enableToc: false
 ---
 # Howdy, Heidi here.
+> [!tip] Working with my garage door up since 2023.
 
-Welcome to my microblog / digital garden - the place for all my scattered, frequent notes and updates. A lower stakes environment to share and organize my ideas than my [blog](https://heidi-huang.ghost.io). 
+Greetings and salutations, my friend.
 
-## Posts
-[[Daily Notes/All daily notes]]
+If you're here, you've stumbled upon my **microblog**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io). 
 
-## Other Links
-- [blog](https://heidi-huang.ghost.io)
-- [personal website](https://heidihuang.dev)
 
+# Organized by Time
+[[Daily Notes/Notes by Month]]
+
+# Other
+[[Quotes]]
