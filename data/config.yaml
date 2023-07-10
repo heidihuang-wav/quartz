@@ -1,4 +1,6 @@
 name: Jacky Zhao
+enableAssetCacheBusting: true
+
 enableToc: true
 openToc: false
 enableLinkPreview: true
