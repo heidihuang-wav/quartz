@@ -4,4 +4,4 @@ tags:
 - DailyNotes
 ---
 # 2023 July
-[[2023-07-10]]
+[[Daily Notes/2023-07-10]]
