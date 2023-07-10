@@ -9,3 +9,6 @@ Welcome to my microblog / digital garden - the place for all my scattered, frequ
 ## All my links
 - [blog](https://heidi-huang.ghost.io)
 - [personal website](https://heidihuang.dev)
+
+## Posts
+[[All daily notes]]
