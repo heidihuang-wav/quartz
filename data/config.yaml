@@ -28,3 +28,8 @@ links:
     link: https://heidihuang.dev
   - link_name: Blog
     link: https://heidi-huang.ghost.io
+favicon: |
+  <link rel="shortcut icon" href="apple-touch-icon.png" type="image/png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">  
+
+
