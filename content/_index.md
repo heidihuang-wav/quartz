@@ -11,7 +11,7 @@ If you're here, you've stumbled upon my **microblog**: the place for all my scat
 
 
 ## July 2023
-- [[Daily Notes/Serendipity, math, file management]]
+- [[Daily Notes/Serendipity, file management, health]]
 - [[Daily Notes/Birth of this Microblog|Birth of this Microblog]]
 
 ## Other
