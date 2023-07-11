@@ -1,4 +1,4 @@
-baseURL = "https://heidihuang-wav.github.io/quartz/"
+baseURL = "https://heidihuang.dev/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true

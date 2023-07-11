@@ -70,8 +70,7 @@ search:
 
 # page description used for SEO
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Howdy. Welcome to my microblog.
 
 # title of the home page (also for SEO)
 page_title:
