@@ -1,5 +1,5 @@
 ---
-title: "Luck = f(surface area)"
+title: "Serendipity, file management, health"
 tags:
 - DailyNotes
 ---

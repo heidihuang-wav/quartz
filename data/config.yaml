@@ -20,12 +20,12 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Howdy. Welcome to my microblog.
+  Howdy. Welcome to Heidi's microblog.
 page_title:
-  "🤠 Heidi Huang"
+  "Heidi Huang 🤠"
 links:
   - link_name: Website
-    link: https://heidihuang.dev
+    link: https://heidihuang.netlify.app
   - link_name: Blog
     link: https://heidi-huang.ghost.io
 favicon: |
