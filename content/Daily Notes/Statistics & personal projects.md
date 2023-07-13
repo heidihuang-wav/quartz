@@ -1,5 +1,5 @@
 ---
-title: "Statistics, personal projects"
+title: "Statistics & personal projects"
 tags:
 - DailyNotes
 ---
