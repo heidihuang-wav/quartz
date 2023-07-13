@@ -10,7 +10,7 @@ Went to a cafe to day and did work for 4 straight hours. I wasn't playin' when I
 I wonder whether forming an association between productivity/focus and cafes is a healthy thing lol. Maybe not for my wallet. As long as caffeine consumption is controlled, and the association isn't exclusive, everything should be fine.
 
 ## "Hell Yeah or No" by Derek Sivers
-Started reading short (~130 pages maybe) today.  
+Started reading today. Short (~130 pages maybe) read.
 
 Book is high in value per word. 
 
