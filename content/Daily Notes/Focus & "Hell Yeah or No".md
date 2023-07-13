@@ -3,7 +3,7 @@ title: Focus & "Hell Yeah or No"
 tag: DailyNote
 ---
 ## Focus
-Being *in the zone*—aka being in a [[Quotes#*Flow* by Mihaly Csikszentmihalyi|flow state]]—is arguably one of the most awesome, fulfilling feelings out there.
+Being *in the zone*—aka being in a [[Quotes#Flow by Mihaly Csikszentmihalyi|flow state]]—is arguably one of the most awesome, fulfilling feelings out there.
 
 Went to a cafe to day and did work for 4 straight hours. I wasn't playin' when I said this website is made with ❤️ and ☕️ (see bottom of page).
 
