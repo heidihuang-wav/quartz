@@ -7,7 +7,7 @@ enableToc: false
 
 Greetings and salutations, my friend.
 
-If you're here, you've stumbled upon my **microblog**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io). 
+Welcome to my **microblog**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io). 
 
 
 ## July 2023 (newest → oldest)

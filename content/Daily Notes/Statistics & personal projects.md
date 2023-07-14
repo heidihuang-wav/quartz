@@ -18,7 +18,7 @@ I hesitated before answering yes to this question, which alarmed me. After think
 
 > [!faq]- Revision: ~~I also know there is exactly a ***0% chance*** I will be exceptional in the area if I go for software. Chances are still extremely slim with molecular therapeutics, but it's not 0.~~
 > 
-> I will never let my self-perceived chances at being "exceptional" at something stop me from pursuing it because, to me, that goal seems a bit too black-and-white. Regardless, I thought more about this statement after it was challenged. Instead of thinking about things this way, potentially perpetuating negative self-fulfilling prophecies, I'll just focus on doing the [[Daily Notes/Focus & Hell Yeah or No|"hell yeahs"]], the things that are exciting and worth pursuing to me, regardless of whether I think I have a shot at being "exceptional" at it or not—I'll let the world decide that for me and allow outcomes, whatever they are, to unfold naturally.
+> I will never let my self-perceived chances at being "exceptional" at something stop me from pursuing it because, to me, that goal seems a bit too black-and-white. I thought more about this statement after it was challenged. Instead of thinking about things this way, potentially perpetuating negative self-fulfilling prophecies, I'll just focus on doing the [[Daily Notes/Focus & Hell Yeah or No|"hell yeahs"]], the things that are exciting and worth pursuing to me. Whether I have a shot at being "exceptional" at it or not is secondary—I'll let the world decide that for me and allow outcomes, whatever they are, to unfold naturally.
 > 
 > Thank you, TF, for challenging this notion.
 > 
