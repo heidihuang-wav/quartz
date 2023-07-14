@@ -21,6 +21,8 @@ I hesitated before answering yes to this question, which alarmed me. After think
 > I will never let my self-perceived chances at being "exceptional" at something stop me from pursuing it because, to me, that goal seems a bit too black-and-white. Regardless, I thought more about this statement after it was challenged. Instead of thinking about things this way, potentially perpetuating negative self-fulfilling prophecies, I'll just focus on doing the [[Daily Notes/Focus & "Hell Yeah or No"|"hell yeahs"]], the things that are exciting and worth pursuing to me, regardless of whether I think I have a shot at being "exceptional" at it or not—I'll let the world decide that for me and allow outcomes, whatever they are, to unfold naturally.
 > 
 > Thank you, TF, for challenging this notion.
+> 
+> 🛑 I've dedicated considerable thought to my purpose and motivations ("why"), whether the field I've chosen is right for me ("what"), and other questions about the essence of my work. Given that I feel pretty solid about my answers to those questions for now, it's time to stop doing that for a little bit. For the next year or two, I believe it'll be more productive to direct my time and energy towards doing that work, rather than pondering and writing extensively about its nature.
 
 - The bottom line: I want to help build something to help people. Ideally, to help improve health outcomes.
 - Source of my frustration: biotech seems to be much more regulated and slow-moving compared to software/tech startups
