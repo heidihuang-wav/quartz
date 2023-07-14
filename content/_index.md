@@ -11,7 +11,7 @@ If you're here, you've stumbled upon my **microblog**: the place for all my scat
 
 
 ## July 2023 (newest → oldest)
-- [[Daily Notes/Focus & "Hell Yeah or No"|Focus & "Hell Yeah or No"]]
+- [[Daily Notes/Focus & Hell Yeah or No|Focus & Hell Yeah or No]]
 - [[Daily Notes/Statistics & personal projects|Statistics & personal projects]]
 - [[Daily Notes/Serendipity, file management, health]]
 - [[Daily Notes/Birth of this Microblog|Birth of this Microblog]]
