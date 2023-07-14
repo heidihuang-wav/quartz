@@ -1,5 +1,5 @@
 ---
-title: Focus & "Hell Yeah or No"
+title: "Focus & 'Hell Yeah or No'"
 tag: Diary
 ---
 ## Focus
