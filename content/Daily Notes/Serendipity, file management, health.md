@@ -1,7 +1,7 @@
 ---
 title: "Serendipity, file management, health"
 tags:
-- DailyNotes
+- Diary
 ---
 ## Serendipity and math
 $Luck = f(A, E) = f(D, S, E)$

@@ -1,7 +1,7 @@
 ---
 title: "Statistics & personal projects"
 tags:
-- DailyNotes
+- Diary
 ---
 ## Statistics
 Fun. It's everywhere. [[Images/Beautiful visualizations.png |Beautiful visualizations]] spark joy.
@@ -15,7 +15,13 @@ I hesitated before answering yes to this question, which alarmed me. After think
 - The alternative: software, tech startups.
 - The question: so, why not software?
 	- My primary interest lies in healthcare and the life sciences. This has been true for as long as I can remember. 
-	- I also know there is exactly a ***0% chance*** I will be exceptional in the area if I go for software. Chances are still extremely slim with molecular therapeutics, but it's not 0.
+
+> [!faq]- Revision: ~~I also know there is exactly a ***0% chance*** I will be exceptional in the area if I go for software. Chances are still extremely slim with molecular therapeutics, but it's not 0.~~
+> 
+> I will never let my self-perceived chances at being "exceptional" at something stop me from pursuing it because, to me, that goal seems a bit too black-and-white. Regardless, I thought more about this statement after it was challenged. Instead of thinking about things this way, potentially perpetuating negative self-fulfilling prophecies, I'll just focus on doing the [[Daily Notes/Focus & "Hell Yeah or No"|"hell yeahs"]], the things that are exciting and worth pursuing to me and allow outcomes, whatever they are, to unfold naturally.
+> 
+> Thank you, TF, for challenging this notion.
+
 - The bottom line: I want to help build something to help people. Ideally, to help improve health outcomes.
 - Source of my frustration: biotech seems to be much more regulated and slow-moving compared to software/tech startups
 - What I want to do: biotech
@@ -23,6 +29,6 @@ I hesitated before answering yes to this question, which alarmed me. After think
 	- cool, what I want to do and what I'm on the path to doing align. that's all i need to know.
 
 > [!info] Reminder to self:
-> don't lose sight of what really drives you. it's easy to be distracted by shiny things that seem to promise fast(er) results.
+> don't lose sight of what really drives you. it's easy to be distracted by shiny things that seem to promise fast(er) results. 
 
 
