@@ -1,13 +1,11 @@
 ---
-title: Heidi Huang
+title: 💭 Thought Log - Heidi Huang
 enableToc: false
 ---
 # Howdy, Heidi here.
 > [!tip] Working with my garage door up since 2023.
 
-Greetings and salutations, my friend.
-
-Welcome to my **microblog**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io). 
+Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them.
 
 
 ## July 2023 (newest → oldest)
