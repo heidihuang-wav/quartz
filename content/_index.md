@@ -1,5 +1,5 @@
 ---
-title: 💭 Thought Log - Heidi Huang
+title: 💭 Heidi Huang
 enableToc: false
 ---
 # Howdy, Heidi here.
@@ -9,10 +9,11 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 
 
 ## July 2023 (newest → oldest)
-- [[Daily Notes/Focus & Hell Yeah or No|Focus & Hell Yeah or No]]
-- [[Daily Notes/Statistics & personal projects|Statistics & personal projects]]
-- [[Daily Notes/Serendipity, file management, health]]
-- [[Daily Notes/Birth of this Microblog|Birth of this Microblog]]
+- [[Diary/What the heck is CRISPR?]]
+- [[Diary/Focus & Hell Yeah or No|Focus & Hell Yeah or No]]
+- [[Diary/Statistics & personal projects|Statistics & personal projects]]
+- [[Diary/Serendipity, file management, health|Serendipity, file management, health]]
+- [[Diary/Birth of this Microblog|Birth of this Microblog]]
 
 ## Other
 - [[Quotes]]
