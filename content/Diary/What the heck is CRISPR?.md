@@ -4,7 +4,7 @@ tags:
 - Diary
 ---
 ## Foreword
-Inspired by [[Diary/Statistics & personal projects#^3ace81|recent reflections]], I've realized I *can* learn about molecular biology on my own outside the lab (duh lol). 
+I've just now realized I *can* learn about molecular biology on my own outside the lab (duh lol). 
 
 I say I study Molecular and Cell Biology (MCB) and Public Health at UC Berkeley, so it's time to act like it. I have the privilege of joining a lab at the Innovative Genomics Institute next month, so I hope to go all in on MCB research for the next 2 years, at the very least. 
 
