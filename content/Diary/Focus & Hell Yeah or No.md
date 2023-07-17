@@ -1,6 +1,7 @@
 ---
 title: "Focus & Hell Yeah or No"
-tag: Diary
+tags:
+- Diary
 ---
 ## Focus
 Being *in the zone*—aka being in a [[Quotes#Flow by Mihaly Csikszentmihalyi|flow state]]—is arguably one of the most awesome, fulfilling feelings out there.
@@ -10,9 +11,9 @@ Went to a cafe to day and did work for 4 straight hours. I wasn't playin' when I
 I wonder whether forming an association between productivity/focus and cafes is a healthy thing lol. Maybe not for my wallet. As long as caffeine consumption is controlled, and the association isn't exclusive, everything should be fine.
 
 ## "Hell Yeah or No" by Derek Sivers
-Started reading today. Short (~130 pages maybe) read.
+Started reading today. Short (~130 pages maybe) read. Book is high in value per word. 
 
-Book is high in value per word. 
+👉 Full book notes [[Books/Hell Yeah or No|here]].
 
 ### Highlights so far from Part 1 / 3 of the book: "Updating Identity"
 - Choose the local vs. global balance that works for you (being useful to your immediate, local community vs. the world).

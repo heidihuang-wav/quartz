@@ -2,6 +2,7 @@
 title: "Quotes"
 tags:
 - Quotes
+enableToc: false
 ---
 
 ## Gottfried Ephraim Lessing

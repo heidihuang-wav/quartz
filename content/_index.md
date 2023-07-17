@@ -17,3 +17,4 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 
 ## Other
 - [[Quotes]]
+- [[Books]]
