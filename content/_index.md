@@ -1,5 +1,5 @@
 ---
-title: 💭 Heidi Huang
+title: Heidi Huang 💭 
 enableToc: false
 ---
 # Howdy, Heidi here.

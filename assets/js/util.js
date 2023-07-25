@@ -26,7 +26,7 @@ const removeMarkdown = (
         .replace(/`{3}.*\n/g, "")
     }
     if (options.preserveLinks) {
-      output = output.replace(/\[(.*?)\][\[\(](.*?)[\]\)]/g, "$1 ($2)")
+      output = output.replace(/\[((?!\!).*?)\][\[\(](.*?)[\]\)]/g, "$1 ($2)")
     }
     output = output
       .replace(/<[^>]*>/g, "")
