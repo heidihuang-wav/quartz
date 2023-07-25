@@ -9,6 +9,8 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 
 
 ## July 2023 (newest → oldest)
+- [[Diary/Your brain on steroids|Your brain on steroids]]
+- [[Diary/Your brain while depressed|Your brain while depressed]]
 - [[Diary/What the heck is CRISPR?]]
 - [[Diary/Focus & Hell Yeah or No|Focus & Hell Yeah or No]]
 - [[Diary/Statistics & personal projects|Statistics & personal projects]]
