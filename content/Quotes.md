@@ -11,8 +11,14 @@ enableToc: false
 ## 徐志摩 
 > 得知，我幸；不得，我命
 
+
+## Stewart Brand
+> Fast learns, slow remembers.  Fast proposes, slow disposes.  Fast is discontinuous, slow is continuous.  Fast and small instructs slow and big by accrued innovation and by occasional revolution.  Slow and big controls small and fast by constraint and constancy.  _Fast gets all our attention, slow has all the power._
+>
+> [Source](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2)
+
 ## Sam Altman
-> Have almost too much self-belief
+> Have almost too much self-belief.
 
 ## Young Sheldon
 > Rabbi Schneiderman: Sheldon, when your days are over, God will never ask you, 'Why weren't you Einstein?' But he might ask you, 'Why weren't you Sheldon?'

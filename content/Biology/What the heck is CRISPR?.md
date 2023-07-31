@@ -2,6 +2,7 @@
 title: "What the heck is CRISPR?"
 tags:
 - Diary
+- July2023
 ---
 ## Foreword
 So, I *can* learn about molecular biology on my own outside the lab (duh lol). 

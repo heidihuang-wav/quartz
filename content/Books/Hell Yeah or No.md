@@ -1,8 +1,7 @@
 ---
 title: "Hell Yeah or No"
 tags:
-- BookNotes
-- Self-help
+- Book
 ---
 ## Updating identity 
 - Choose the local vs. global balance that works for you (being useful to your immediate, local community vs. the world).

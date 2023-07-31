@@ -2,6 +2,7 @@
 title: "Bentoism 🍱"
 tags:
 - Diary
+- August2023
 ---
 ### What is Bentoism? 
 > [see for yourself!](https://bentoism.org/)
