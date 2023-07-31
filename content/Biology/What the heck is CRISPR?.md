@@ -4,9 +4,9 @@ tags:
 - Diary
 ---
 ## Foreword
-I've just now realized I *can* learn about molecular biology on my own outside the lab (duh lol). 
+So, I *can* learn about molecular biology on my own outside the lab (duh lol). 
 
-I say I study Molecular and Cell Biology (MCB) and Public Health at UC Berkeley, so it's time to act like it. I have the privilege of joining a lab at the Innovative Genomics Institute next month, so I hope to go all in on MCB research for the next 2 years, at the very least. 
+I say I study Molecular and Cell Biology (MCB) and Public Health at UC Berkeley, so it's time to act like it. 
 
 I hope learning more about relevant MCB topics on my own will allow me to:
 1. 🌟 ask better questions, form more connections among different areas of knowledge
@@ -51,7 +51,7 @@ I hope learning more about relevant MCB topics on my own will allow me to:
 
 ### Cas9 protein and how it works
 - Cas9: single, 2-lobed protein made of **domains** (dynamic regions) 
-	- Recognition lobe (REC) - top lobe, carries [[Diary/What the heck is CRISPR?#^8f88c1|guide RNA]] (gRNA)
+	- Recognition lobe (REC) - top lobe, carries [[Biology/What the heck is CRISPR?#^8f88c1|guide RNA]] (gRNA)
 	- Nuclease lobe (NUC) - bottom lobe, contains 2 separate nuclease domains: HNH and RuvC, make up the blades of the molecular scissors
 ### Identifying the right DNA target
 #### PAM Recognition

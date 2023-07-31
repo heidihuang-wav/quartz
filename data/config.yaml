@@ -20,9 +20,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Howdy, Heidi here. Welcome to my thought log, where I make frequent posts to capture my thoughts and the connections among them. 
+  Howdy, Heidi Huang here. Welcome to my thought log, where I make frequent posts to capture my thoughts and the connections among them. 
 page_title:
-  "💭 Thought Log"
+  "Thought Log 💭"
 links:
   - link_name: Website
     link: https://heidihuang.netlify.app

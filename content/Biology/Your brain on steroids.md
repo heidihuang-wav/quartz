@@ -1,7 +1,7 @@
 ---
 title: "Your brain on steroids"
 tags:
-- Diary
+- Biology
 ---
 
 What do roids do to your brain? Let's find out.
