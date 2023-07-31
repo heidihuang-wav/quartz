@@ -2,6 +2,7 @@
 title: "Serendipity, file management, health"
 tags:
 - Diary
+- July2023
 ---
 ## Serendipity and math
 $Luck = f(A, E) = f(D, S, E)$

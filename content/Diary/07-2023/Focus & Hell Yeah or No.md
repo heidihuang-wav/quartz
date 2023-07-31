@@ -2,6 +2,7 @@
 title: "Focus & Hell Yeah or No"
 tags:
 - Diary
+- July2023
 ---
 ## Focus
 Being *in the zone*—aka being in a [[Quotes#Flow by Mihaly Csikszentmihalyi|flow state]]—is arguably one of the most awesome, fulfilling feelings out there.

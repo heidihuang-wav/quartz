@@ -2,6 +2,7 @@
 title: "Statistics & personal projects"
 tags:
 - Diary
+- July2023
 ---
 ## Statistics
 Fun. It's everywhere. [[Images/Beautiful visualizations.png |Beautiful visualizations]] spark joy.
