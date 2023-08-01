@@ -14,9 +14,11 @@ I hope you are a **compassionate and supportive friend, partner, family member, 
 
 Professionally, I hope you've been able to **find your focus** and *really* go **deep**. Ask big questions. Learn whatever you need to achieve your professional goals and what you're curious about, regardless of whether or not those things are "in your field." What are the boundaries of our current knowledge, and what's stopping us? 
 
-I hope you are **grounded, self-assured, and confident** in your values and who you are. It's okay to say no. Have the courage to be disliked. 
+Personally, I hope you are **grounded, self-assured, and confident** in your values and who you are. It's okay to say no. Have the courage to be disliked. 
 
 Lastly, I hope you are **kind**—to others and to yourself. 🫀
+
+Revisit this letter every once in a while. Perhaps, when you feel lost, disappointed, or uncertain about the future. No matter what outcomes or end states you face, as long as you're keeping at embodying the attributes described above, that is more than enough.
 
 Warmly, 
 
