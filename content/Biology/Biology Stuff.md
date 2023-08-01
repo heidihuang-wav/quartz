@@ -11,3 +11,6 @@ Notes on cool biology topics.
 
 ### Papers
 - [[PDFs/A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity|A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity]]
+
+### Books
+- [[Book List|The Gene]]

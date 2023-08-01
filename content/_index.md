@@ -9,6 +9,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 
 ## Chronological (newest → oldest)
 - August 2023
+	- [[To all my English teachers]]
 	- [[Diary/08-2023/What does success mean to you?|What does success mean to you?]]
 	- [[Diary/08-2023/Bentoism 🍱]]
 - [[Diary/07-2023/July 2023]]
