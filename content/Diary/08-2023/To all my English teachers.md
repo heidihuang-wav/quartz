@@ -4,5 +4,7 @@ tags:
 - Diary
 - August2023
 ---
+Thank y'all. Special thank you to Ms. Strong.
 
-coming soon...
+
+to be continued...

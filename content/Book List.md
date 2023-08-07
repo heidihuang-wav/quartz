@@ -9,9 +9,9 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## To Read
 - Nightfall ([short story, link to pdf](https://sites.uni.edu/morgans/astro/course/nightfall.pdf)) | Isaac Asimov
-- [[Books/A Crack in Creation|A Crack in Creation]]: Gene Editing & the Unthinkable Power to Control Evolution | Jennifer Doudna & Samuel Sternberg
-- The Genome Odyssey: Medical Mysteries and the Incredible Quest to Solve Them | Euan Angus Ashley
-- For Blood and Money: Billionaires, Biotech, and the Quest for a Blockbuster Drug | Nathan Vardi
+- [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg
+- The Genome Odyssey | Euan Angus Ashley
+- For Blood and Money | Nathan Vardi
 - Deep Work | Cal Newport
 - The Gulag Archipelago | Aleksandr Solzhenitsyn
 - Build | Tony Fadell
@@ -30,32 +30,32 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## I've Read
 ### 2023
-- The Gene | Siddhartha Mukherjee
-- Salt, Sugar, Fat | Michael Moss
-- The Housekeeper and the Professor | Yoko Ogawa
-- Being Mortal | Atul Gawande
-- [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
-- Without a Doubt | Surbhi Sarna
-- Man's Search for Meaning | Viktor E. Frankl
-- [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
-- [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
+1. The Gene | Siddhartha Mukherjee
+2. Salt, Sugar, Fat | Michael Moss
+3. The Housekeeper and the Professor | Yoko Ogawa
+4. Being Mortal | Atul Gawande
+5. [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
+6. Without a Doubt | Surbhi Sarna
+7. Man's Search for Meaning | Viktor E. Frankl
+8. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
+9. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
 
 ### 2022
-- [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
-- [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi
-- Capitalist Realism | Mark Fisher
-- Principles | Ray Dalio
-- The Defining Decade | Meg Jay
-- Range | David Epstein
-- Health Design Thinking | Bon Ku
+1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
+2. [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi
+3. Capitalist Realism | Mark Fisher
+4. Principles | Ray Dalio
+5. The Defining Decade | Meg Jay
+6. Range | David Epstein
+7. Health Design Thinking | Bon Ku
 
 ### 2021
-- 🥇 Atomic Habits | James Clear
-- The Subtle Art of Not Giving a Fuck | Mark Manson
-- The Dip | Seth Godin
-- Digital Minimalism | Cal Newport
-- How to Win Friends and Influence People | Dale Carnegie
-- The Selfish Gene | Richard Dawkins
+1. 🥇 Atomic Habits | James Clear
+2. The Subtle Art of Not Giving a Fuck | Mark Manson
+3. The Dip | Seth Godin
+4. Digital Minimalism | Cal Newport
+5. How to Win Friends and Influence People | Dale Carnegie
+6. The Selfish Gene | Richard Dawkins
 
 ### Before 2021
 - [Flow](https://heidi-huang.ghost.io/flow-the-psychology-of-optimal-experience/) | Mihaly Csikszentmihalyi

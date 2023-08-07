@@ -6,7 +6,7 @@ tags:
 ---
 ### What is Bentoism? 
 > [see for yourself!](https://bentoism.org/)
-- A multi-dimensional way of framing what you want
+- A multi-dimensional way of framing what you want 
 	- x-axis is time: from now -> the future
 	- y-axis interest: from self interest -> collective interest
 - A tool for making decisions aligned with our values and goals. 
