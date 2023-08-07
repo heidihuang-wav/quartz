@@ -8,8 +8,8 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - 🥸 - favorite fiction book of the year
 
 ## To Read
-- Nightfall ([short story](https://sites.uni.edu/morgans/astro/course/nightfall.pdf)) | Isaac Asimov
-- A Crack In Creation: Gene Editing & the Unthinkable Power to Control Evolution | Jennifer Doudna & Samuel Sternberg
+- Nightfall ([short story, link to pdf](https://sites.uni.edu/morgans/astro/course/nightfall.pdf)) | Isaac Asimov
+- [[Books/A Crack in Creation|A Crack in Creation]]: Gene Editing & the Unthinkable Power to Control Evolution | Jennifer Doudna & Samuel Sternberg
 - The Genome Odyssey: Medical Mysteries and the Incredible Quest to Solve Them | Euan Angus Ashley
 - For Blood and Money: Billionaires, Biotech, and the Quest for a Blockbuster Drug | Nathan Vardi
 - Deep Work | Cal Newport
@@ -35,6 +35,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - The Housekeeper and the Professor | Yoko Ogawa
 - Being Mortal | Atul Gawande
 - [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
+- Without a Doubt | Surbhi Sarna
 - Man's Search for Meaning | Viktor E. Frankl
 - [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
 - [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
@@ -42,7 +43,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 ### 2022
 - [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
 - [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi
-- Capitalist Realism | Mark Ficher
+- Capitalist Realism | Mark Fisher
 - Principles | Ray Dalio
 - The Defining Decade | Meg Jay
 - Range | David Epstein
