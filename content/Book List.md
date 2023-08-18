@@ -66,6 +66,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - Outliers | Malcolm Gladwell
 - The Tipping Point | Malcolm Gladwell
 - Freakonomics | Steven Levitt & Stephen J. Dubner
+- The Jungle | Upton Sinclair
 - 🥸 In Cold Blood | Truman Capote
 - The Beetle | Richard Marsh
 - Things Fall Apart | Chinua Achebe
