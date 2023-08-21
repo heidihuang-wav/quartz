@@ -1,7 +1,7 @@
 ---
 title: "Statistics & personal projects"
 tags:
-- Diary
+- Journal
 - July2023
 ---
 ## Statistics

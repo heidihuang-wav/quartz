@@ -1,7 +1,7 @@
 ---
 title: "What does success mean to you?"
 tags:
-- Diary
+- Journal
 - August2023
 ---
 To my future self, 

@@ -1,7 +1,7 @@
 ---
 title: "Focus & Hell Yeah or No"
 tags:
-- Diary
+- Journal
 - July2023
 ---
 ## Focus

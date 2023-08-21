@@ -1,7 +1,7 @@
 ---
 title: "Bentoism 🍱"
 tags:
-- Diary
+- Journal
 - August2023
 ---
 ### What is Bentoism? 

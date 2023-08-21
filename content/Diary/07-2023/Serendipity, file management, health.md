@@ -1,7 +1,7 @@
 ---
 title: "Serendipity, file management, health"
 tags:
-- Diary
+- Journal
 - July2023
 ---
 ## Serendipity and math

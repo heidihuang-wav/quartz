@@ -1,7 +1,7 @@
 ---
 title: "Birth of this Microblog"
 tags:
-- Diary
+- Journal
 - July2023
 ---
 
