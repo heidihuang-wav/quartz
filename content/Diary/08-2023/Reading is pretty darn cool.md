@@ -33,7 +33,7 @@ What *does* matter is this:
 > Reading...\[trains] your model of the world. And even if you forget...what you read, its effect on your model of the world persists. <br>
 > —Paul Graham
 
-Take the short novel *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a brilliant mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
+Take *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a brilliant mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
 
 Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son, affectionately known as "Root," to think for himself and not be afraid to be wrong was inspiring and resonated with the inner child within me.
 
