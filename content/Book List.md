@@ -11,7 +11,6 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - Nightfall ([short story, link to pdf](https://sites.uni.edu/morgans/astro/course/nightfall.pdf)) | Isaac Asimov
 - [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg
 - The Genome Odyssey | Euan Angus Ashley
-- For Blood and Money | Nathan Vardi
 - Deep Work | Cal Newport
 - The Gulag Archipelago | Aleksandr Solzhenitsyn
 - Build | Tony Fadell
@@ -21,24 +20,26 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - How to Change Your Mind | Michael Pollan
 - What's Your Problem? | Thomas Wedell-Wedellsborg
 - 1984 | George Orwell
+- Thinking, Fast and Slow | Daniel Kahneman
+- Dandelion Wine | Ray Bradbury
 
 
 ## Currently Reading
-- Thinking, Fast and Slow | Daniel Kahneman
 - The Code Breaker | Walter Isaacson
-- Empire of Pain | Patrick Radden Keefe
+- For Blood and Money | Nathan Vardi
 
 ## I've Read
 ### 2023
-1. The Gene | Siddhartha Mukherjee
-2. Salt, Sugar, Fat | Michael Moss
-3. The Housekeeper and the Professor | Yoko Ogawa
-4. Being Mortal | Atul Gawande
-5. [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
-6. Without a Doubt | Surbhi Sarna
-7. Man's Search for Meaning | Viktor E. Frankl
-8. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
-9. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
+1. Empire of Pain | Patrick Radden Keefe
+2. The Gene | Siddhartha Mukherjee
+3. Salt, Sugar, Fat | Michael Moss
+4. The Housekeeper and the Professor | Yoko Ogawa
+5. Being Mortal | Atul Gawande
+6. [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
+7. Without a Doubt | Surbhi Sarna
+8. Man's Search for Meaning | Viktor E. Frankl
+9. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
+10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
