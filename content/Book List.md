@@ -8,7 +8,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - 🥸 - favorite fiction book of the year
 
 ## To Read
-- Nightfall ([short story, link to pdf](https://sites.uni.edu/morgans/astro/course/nightfall.pdf)) | Isaac Asimov
+- Nightfall | Isaac Asimov
 - [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg
 - The Genome Odyssey | Euan Angus Ashley
 - Deep Work | Cal Newport

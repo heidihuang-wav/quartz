@@ -33,15 +33,14 @@ What *does* matter is this:
 > Reading...\[trains] your model of the world. And even if you forget...what you read, its effect on your model of the world persists. <br>
 > —Paul Graham
 
-Take *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a brilliant mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
+Take *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
 
 Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son, affectionately known as "Root," to think for himself and not be afraid to be wrong was inspiring and resonated with the inner child within me.
 
-I'll probably still wish I could be studying something else when taking math classes, but the sight of the square root sign will elicit a smile, thanks to the professor's portrayal of it as a generous symbol, welcoming all numbers. I'll also remember that even The Professor wasn't afraid to say "I don't know," so neither should I. 
+I'll probably still wish I could be studying something else when taking math classes, but the sight of the square root sign will elicit a smile, thanks to the professor's portrayal of it as a generous symbol, a welcoming house for all numbers. I'll also remember even someone as brilliant as The Professor wasn't afraid to say "I don't know," so there's no reason I should be afraid.
 
-I also find books a compelling media form is because of these attributes:
-- **Depth of information**
-	- Authors spend *years* doing research, conducting interviews, revising drafts before their books are published. The length and depth of this prep work is most likely missing for a 30-minute YouTube video, for example. When I think about the amount of information and possibly decades of expertise authors distill into several hours of reading, I find books to be such a steal.
+Books are also a compelling media form for these reasons:
+- **Depth of information**: when I think about the amount of information and possibly decades of expertise authors distill into several hours of reading, I find books to be such a steal.
 - **Deep Focus**
 	- Reading a book requires sustained attention and focus. Maintaining deep focus for an extended period is a valuable skill, and reading helps me practice and get better at this skill. 
 	- I've found it difficult to both start projects *and* finish strong. Take songwriting, for example. I have tens of files sitting on my computer with 4-bar loops waiting to be turned into full-length songs. Reading books I set out to finish (I abandon some books on purpose) from cover to cover gets me into the habit of starting and finishing things.
@@ -50,7 +49,13 @@ I also find books a compelling media form is because of these attributes:
 	- **Imagination**
 		> Fiction can show you a different world. It can take you somewhere you've never been. Once you've visited other worlds, like those who ate fairy fruit, you can never be entirely content with the world that you grew up in. Discontent is a good thing: discontented people can modify and improve their worlds, leave them better, leave them different.<br>
 		> 	—Neil Gaiman ([source](https://www.theguardian.com/books/2013/oct/24/neil-gaiman-face-facts-need-fiction))
-	- **Interpretation**: When we engage with a text on a personal level, we become active participants in the storytelling process. We connect dots, bridge gaps, and uncover underlying themes that resonate with our lives. I love hearing what other folks have to say about the same book I read.
+	- **Interpretation**: When we engage with a text on a personal level, we become active participants in the storytelling process. I love hearing what other folks have to say about the same book I read.
+- **Improved Writing Skills**
+
+## Annual Personal Goal-Setting
+
+So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. Read more about that here: 
+
 
 ## Annual Personal Goal-Setting
 
