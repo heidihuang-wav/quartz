@@ -3,8 +3,6 @@ title: "Biology Stuff"
 tags:
 - July2023
 ---
-Notes on cool biology topics.
-
 ### Random (for now)
 - [[Biology/What the heck is CRISPR?|What the heck is CRISPR?]]
 - [[Biology/Your brain on steroids|Your brain on steroids]]
@@ -14,3 +12,5 @@ Notes on cool biology topics.
 
 ### Books
 - [[Book List|The Gene]]
+- [[Book List|The Code Breaker]]
+- 

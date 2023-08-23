@@ -35,9 +35,7 @@ What *does* matter is this:
 
 Take *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
 
-Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son, affectionately known as "Root," to think for himself and not be afraid to be wrong was inspiring and resonated with the inner child within me.
-
-I'll probably still wish I could be studying something else when taking math classes, but the sight of the square root sign will elicit a smile, thanks to the professor's portrayal of it as a generous symbol, a welcoming house for all numbers. I'll also remember even someone as brilliant as The Professor wasn't afraid to say "I don't know," so there's no reason I should be afraid.
+Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* The sight of the square root sign will now elicit a smile, thanks to the professor's portrayal of it as a generous symbol, a welcoming house for all numbers. Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son to think for himself and not be afraid to be wrong was inspiring and resonated with my inner child.
 
 Books are also a compelling media form for these reasons:
 - **Depth of information**: when I think about the amount of information and possibly decades of expertise authors distill into several hours of reading, I find books to be such a steal.
@@ -54,7 +52,7 @@ Books are also a compelling media form for these reasons:
 
 ## Annual Personal Goal-Setting
 
-So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. Read more about that here: 
+So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. You can read more about that here: 
 
 
 ## Annual Personal Goal-Setting

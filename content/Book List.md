@@ -25,7 +25,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 
 ## Currently Reading
-- The Code Breaker | Walter Isaacson
+- The Code Breaker | Walter Isaacson ^7335c6
 - For Blood and Money | Nathan Vardi
 
 ## I've Read
