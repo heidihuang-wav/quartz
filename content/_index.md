@@ -11,7 +11,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - August 2023
 	- [[Journal/08-2023/Reading is pretty darn cool]]
 	- [[Journal/08-2023/What does success mean to you?|What does success mean to you?]]
-	- [[Journal/08-2023/Bentoism 🍱]]
+	- [[Journal/08-2023/Bentoism]]
 - [[Journal/07-2023/July 2023]]
 
 ## Key Landing Pages   

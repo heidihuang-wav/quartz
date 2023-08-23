@@ -1,5 +1,6 @@
 ---
 title: "2022 End-of-year Reflection"
+enableToc: false
 ---
 Learnings from 2022 goal-setting.
 

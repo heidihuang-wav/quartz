@@ -1,5 +1,5 @@
 ---
-title: "Bentoism 🍱"
+title: "Bentoism"
 tags:
 - Journal
 - August2023

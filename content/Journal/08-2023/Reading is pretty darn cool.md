@@ -52,20 +52,10 @@ Books are also a compelling media form for these reasons:
 
 ## Annual Personal Goal-Setting
 
-So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. You can read more about that here: 
+So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. You can read more about that here: [[Yearly/2023 Initial Goal Setting|2023 Initial Goal Setting]]
 
 
-## Annual Personal Goal-Setting
 
-Each year, I set out to establish or strengthen a habit.
-
-Last year (2022), my goal was to exercise (lift weights + do cardio) consistently: I wanted to integrate exercise into my life such that, in its absence, I'd feel like something was off. 
-
-This year (2023), I want to read a book every month. That's twelve books in twelve months. According to my [[Book List]], I've read ten books as I'm writing this (08.21.2023). I may be on track for now, but during the semester I will have less time to read books. 
-
-The number of books is arbitrary, really. I kinda just thought the repetition of twelve gives the name a nice ring. Reading twelve books in a year is not a lofty goal, but it's a realistic goal.
-
-to be continued...
 
 
 
