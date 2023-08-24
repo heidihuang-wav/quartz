@@ -32,8 +32,8 @@ Guidelines to keep in mind:
 
 - Listen to audiobooks!
 - Reasons
-    - With Audible, I can listen to books on the go, and I spend a fair amount of time commuting or doing tasks (e.g. washing the dishes, exercising) that don’t require my full attention
-    - Paperback books are much more expensive, and I need to set aside dedicated time to read them. I also move around a lot, and physical books can be a hassle to transport. Hence why I’ve been reading a grand total of zeeero books.
-    - The biggest advantage of Audible is it will make reading much more accessible and convenient, and it is a cheaper alternative to physical books.
-    - A subscription to Audible is worth it and will aid me on my path to becoming a _reader - someone who incorporates reading into their routine; someone who regularly reads_
+	- I can listen to books on the go, and I spend a fair amount of time commuting or doing tasks (e.g. washing the dishes, exercising) that don’t require my full attention
+	- Paperback books are much more expensive, and I need to set aside dedicated time to read them. I also move around a lot, and physical books can be a hassle to transport. Hence why I’ve been reading a grand total of zeeero books.
+	- The biggest advantage of audiobooks is it will make reading much more accessible and convenient, and it is a cheaper alternative to physical books.
+	- Audiobooks will aid me on my path to becoming a *reader - someone who regularly reads*
 

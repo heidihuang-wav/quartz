@@ -28,7 +28,7 @@ I’m currently reading…
 
 Comments
 
-- It’s harder for me to finish paperback books than audiobooks. I just started reading _The Subtle Art of Not Giving a F_ck* a few days ago, and I’m already more than halfway through, but I started reading _The Healing of America_ a few weeks ago, and I’m far from being halfway through.
+- It’s harder for me to finish paperback books than audiobooks. I just started reading *The Subtle Art of Not Giving a F\*ck* a few days ago, and I’m already more than halfway through, but I started reading _The Healing of America_ a few weeks ago, and I’m far from being halfway through.
 - There’s a higher “activation energy” for reading paperback books.
 
 ## Reflection
@@ -37,7 +37,7 @@ Comments
 - I need to keep up with goal #1 by spicing things up.
 	- From now until 6/21 (I’ll move back to campus and have access to the RSF), I’ll switch things up - do cardio somedays (or every day) and do stuff with my 2 10-lb dumbbells
 	- I think I also got bored of cardio cause it got repetitive (basketball and jump rope), so until I can use the RSF again introducing some variety should help.
-- Now that I have a Audible Premium Plus subscription (the annual discount was a lifesaver), and summer classes haven’t begun yet, keeping up with goal #2 should be fairly easy to do. I’ll just keep doing what I’ve been doing. Once classes start again, with audiobooks, I should still be able to hit my goal. It’ll just be a little more challenging.
+- Summer classes haven’t begun yet, so keeping up with goal #2 should be fairly easy to do. I’ll just keep doing what I’ve been doing. Once classes start again, with audiobooks, I should still be able to hit my goal. It’ll just be a little more challenging.
 
 ## Reminder: Why Did I Choose These Goals?
 
