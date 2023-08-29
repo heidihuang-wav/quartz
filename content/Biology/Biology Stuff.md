@@ -12,5 +12,4 @@ tags:
 
 ### Books
 - [[Book List|The Gene]]
-- [[Book List|The Code Breaker]]
-- 
+- [[Book List|The Code Breaker]] 

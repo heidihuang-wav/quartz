@@ -9,7 +9,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## To Read
 - Nightfall | Isaac Asimov
-- [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg
+- [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg 
 - The Genome Odyssey | Euan Angus Ashley
 - Deep Work | Cal Newport
 - The Gulag Archipelago | Aleksandr Solzhenitsyn
@@ -22,11 +22,10 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - 1984 | George Orwell
 - Thinking, Fast and Slow | Daniel Kahneman
 - Dandelion Wine | Ray Bradbury
-
+- The Spirit Catches You and You Fall Down | Anne Fadiman 
 
 ## Currently Reading
-- The Code Breaker | Walter Isaacson ^7335c6
-- For Blood and Money | Nathan Vardi
+- The Code Breaker | Walter Isaacson
 
 ## I've Read
 ### 2023
@@ -40,6 +39,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 8. Man's Search for Meaning | Viktor E. Frankl
 9. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
 10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
+11. For Blood and Money | Nathan Vardi
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
