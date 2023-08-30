@@ -9,6 +9,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 
 ## Journal (newest → oldest)
 - August 2023
+	- [[Books/For Blood and Money|For Blood and Money]] 
 	- [[Journal/08-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]]
 	- [[Journal/08-2023/Reading is pretty darn cool]]
 	- [[Journal/08-2023/What does success mean to you?|What does success mean to you?]]
