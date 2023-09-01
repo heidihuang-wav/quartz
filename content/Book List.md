@@ -11,7 +11,6 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - Nightfall | Isaac Asimov
 - [[Books/A Crack in Creation|A Crack in Creation]] | Jennifer Doudna & Samuel Sternberg 
 - The Genome Odyssey | Euan Angus Ashley
-- Deep Work | Cal Newport
 - The Gulag Archipelago | Aleksandr Solzhenitsyn
 - Build | Tony Fadell
 - Bad Blood | John Carreyrou
@@ -26,6 +25,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
+- [[Books/Deep Work|Deep Work]] | Cal Newport
 
 ## I've Read
 ### 2023

@@ -2,4 +2,9 @@
 title: "Private Stuff"
 ---
 
-This page doesn't get published!
+# Local Servers
+for astro.build website
+`npm run dev`
+
+for hugo / obsidian-quartz
+`make serve`

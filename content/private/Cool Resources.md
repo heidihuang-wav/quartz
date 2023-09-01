@@ -1,0 +1,1 @@
+- Inspiring web designs: https://www.curated.design/
