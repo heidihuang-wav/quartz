@@ -1,6 +1,8 @@
 ---
 title: "Yearly Goals"
 ---
+> The days are long, but the years are short.
+
 Attempting to pick up or amp up a solid habit each year. Think of it as New Year's resolutions, but with an extra dose of structure.
 ## 2023
 > [!check] To read 12 books in 12 months

@@ -40,7 +40,7 @@ Math has never been my favorite subject, but I enjoyed feeling the professor's g
 Books are also a compelling media form for these reasons:
 - **Depth of information**: when I think about the amount of information and possibly decades of expertise authors distill into several hours of reading, I find books to be such a steal.
 - **Deep Focus**
-	- Reading a book requires sustained attention and focus. Maintaining deep focus for an extended period is a valuable skill, and reading helps me practice and get better at this skill. 
+	- Reading a book requires sustained attention and focus. Maintaining deep focus for an extended period is a valuable skill (see [[Books/Deep Work|Deep Work]]), and reading helps me practice and get better at this skill. 
 	- I've found it difficult to both start projects *and* finish strong. Take songwriting, for example. I have tens of files sitting on my computer with 4-bar loops waiting to be turned into full-length songs. Reading books I set out to finish (I abandon some books on purpose) from cover to cover gets me into the habit of starting and finishing things.
 - **Personal Engagement, Imagination, and Interpretation**
 	- **Engagement**: I control the pace at which I read. I can take notes, annotate, highlight, and be as careful and reflective with each page, or not, as I'd like. I also have the freedom to turn any notes into [blog posts](https://heidi-huang.ghost.io/) and essays to create a deeper, more personal connection with the material.
