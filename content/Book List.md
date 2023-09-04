@@ -4,6 +4,7 @@ title: "Book List"
 A master list of books / novellas / short stories (1) I want to read, (2) am currently reading, (3) or have read in the past. Links are to [long-form blog posts](https://heidi-huang.ghost.io/tag/readsandreflections/) / any notes I took / thoughts about the book.
 
 ## Legend
+- Book Title | Author
 - 🥇 - book that's had the most impact on me that year
 - 🥸 - favorite fiction book of the year
 
@@ -25,7 +26,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
-- [[Books/Deep Work|Deep Work]] | Cal Newport
+- The Immortal Life of Henrietta Lacks | Rebecca Skloot
 
 ## I've Read
 ### 2023
@@ -40,6 +41,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 9. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
 10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
 11. For Blood and Money | Nathan Vardi
+12. [[Books/Deep Work|Deep Work]] | Cal Newport
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
@@ -57,6 +59,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 4. Digital Minimalism | Cal Newport
 5. How to Win Friends and Influence People | Dale Carnegie
 6. The Selfish Gene | Richard Dawkins
+7. Slaughterhouse-Five | Kurt Vonnegut
 
 ### Before 2021
 - [Flow](https://heidi-huang.ghost.io/flow-the-psychology-of-optimal-experience/) | Mihaly Csikszentmihalyi
