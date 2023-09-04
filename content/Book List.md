@@ -33,13 +33,13 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 1. Empire of Pain | Patrick Radden Keefe
 2. The Gene | Siddhartha Mukherjee
 3. Salt, Sugar, Fat | Michael Moss
-4. The Housekeeper and the Professor | Yoko Ogawa
+4. The Housekeeper and the Professor | Yōko Ogawa
 5. Being Mortal | Atul Gawande
 6. [[Books/Hell Yeah or No|Hell Yeah or No]] | Derek Sivers
 7. Without a Doubt | Surbhi Sarna
 8. Man's Search for Meaning | Viktor E. Frankl
 9. [Nonviolent Communication](https://heidi-huang.ghost.io/nonviolentcommunication/) | Marshall Rosenberg
-10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason de Leon
+10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason De León
 11. For Blood and Money | Nathan Vardi
 12. [[Books/Deep Work|Deep Work]] | Cal Newport
 
