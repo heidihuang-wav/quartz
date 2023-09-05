@@ -19,3 +19,4 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - [[Yearly/Yearly Goals]]
 - [[Book List]]
 - [[Biology/Biology Stuff]]
+- [[The Impossible List]]
