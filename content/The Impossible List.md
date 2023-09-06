@@ -30,6 +30,7 @@ A bucket list of sorts. Inspired by [Thomas Frank](https://collegeinfogeek.com/a
 	- [x] Asia
 	- [ ] Europe
 	- [ ] Australia/Oceania
+- [ ] Visit [Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.youtube.com/watch?v=fHxO0UdpoxM)
 
 ## Academic / Work
 - [ ] Get published in a peer-reviewed journal
