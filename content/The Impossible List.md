@@ -24,10 +24,10 @@ A bucket list of sorts. Inspired by [Thomas Frank](https://collegeinfogeek.com/a
 - [ ] Visit every single National Park 
 ### World
 - [ ] Visit all inhabited continents
-	- [x] Africa
-	- [x] North America
+	- [x] ~~Africa~~
+	- [x] ~~North America~~
 	- [ ] South America
-	- [x] Asia
+	- [x] ~~Asia~~
 	- [ ] Europe
 	- [ ] Australia/Oceania
 - [ ] Visit [Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.youtube.com/watch?v=fHxO0UdpoxM)
