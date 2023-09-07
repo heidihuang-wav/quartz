@@ -17,7 +17,7 @@ I hesitated before answering yes to this question, which alarmed me. After think
 - The question: so, why not software?
 	- My primary interest lies in healthcare and the life sciences. This has been true for as long as I can remember.  
 
-> [!faq]- Revision: ~~I also know there is exactly a ***0% chance*** I will be exceptional in the area if I go for software. Chances are still extremely slim with molecular therapeutics, but it's not 0.~~
+> [!faq]- Revision: ~~I also know there is exactly a ***0% chance*** I will be exceptional in the area if I go for software.~~
 > 
 > I will never let my self-perceived chances at being "exceptional" at something stop me from pursuing it because, to me, that goal seems a bit too black-and-white. I thought more about this statement after it was challenged. Instead of thinking about things this way, potentially perpetuating negative self-fulfilling prophecies, I'll just focus on doing the [[Journal/07-2023/Focus & Hell Yeah or No|"hell yeahs"]], the things that are exciting and worth pursuing to me. Whether I have a shot at being "exceptional" at it or not is secondary—I'll let the world decide that for me and allow outcomes, whatever they are, to unfold naturally.
 > 

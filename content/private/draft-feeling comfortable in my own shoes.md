@@ -1,4 +1,5 @@
-「無為」
+alternative titles
+- 「無為」- "falling into life kinda situation", as Lao Tzu said - "f\*ck around and find out*"
 
 ---
 
@@ -28,6 +29,8 @@ I’m confident in my curiosity and where it’ll lead me.
 
 ### To keep
 
+"study broadly and without fear"
+
 Title: “oh, the choices you’ll make”
 
 How do you know if you’re doing the _right_ thing?
@@ -51,6 +54,8 @@ Ease / effortlessness (you’re just irresistibly drawn in).
 Openness. like standing atop a hill in all its sun-kissed splendor, with a panoramic view stretching as far as the eye can see.
 
 ---
+## inspo
+- https://nicoles.substack.com/p/falling-into-life
 
 In a world driven by goals, achievements, and the incessant pursuit of meaning, it’s no wonder that the question “why” has become an unrelenting companion in our lives. From college applications to the daunting process of med school admissions, we’ve been taught to dissect our every move, to analyze our motivations with a fine-toothed comb. And while having a strong sense of purpose can undoubtedly propel us forward, there comes a time when this relentless questioning might not be as necessary as we’ve been led to believe.
 
