@@ -21,8 +21,12 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 - What's Your Problem? | Thomas Wedell-Wedellsborg
 - 1984 | George Orwell
 - Thinking, Fast and Slow | Daniel Kahneman
-- Dandelion Wine | Ray Bradbury
 - The Spirit Catches You and You Fall Down | Anne Fadiman 
+- Ego is the Enemy | Ryan Holiday
+- Zero to One | Peter Thiel
+- The Hard Thing about Hard Things | Ben Horowitz
+- The Sense of Style | Steven Pinker
+- The Inner Game of Tennis | W. Timothy Gallwey
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
@@ -45,7 +49,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari
-2. [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi
+2. 🥇 [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi
 3. Capitalist Realism | Mark Fisher
 4. Principles | Ray Dalio
 5. The Defining Decade | Meg Jay

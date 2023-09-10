@@ -64,3 +64,11 @@ tags:
 ### Rule 4: Drain the Shallows
 - Batch shallow work into groups (2-3 / day)
 - Shallow work is not inherently bad; shallow work only becomes a problem if eats into your available deep work hours
+
+## Applying *Deep Work* 
+- I've started time-tracking my work using Working Hours (iOS app) 
+	- This practice may not be permanent, but I want to quantify how much deep work I *actually* accomplish in a day
+	- I'll try to gain some insights from the number of hours I spend working 
+- Scheduling time blocks a day in advance 
+	- I usually have a to-do list, so I know what I want to accomplish for that day, but scheduling things out has been helpful
+	- It's also been somewhat of a stressful practice because things usually never go to plan 

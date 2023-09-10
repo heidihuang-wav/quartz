@@ -8,3 +8,5 @@ for astro.build website
 
 for hugo / obsidian-quartz
 `make serve`
+
+- Marc Andreesen's blog posts: https://pmarchive.com/ 

@@ -10,6 +10,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 ## Journal (newest → oldest)
 - September 2023
 	- [[Books/Deep Work|Deep Work]]
+		- 
 	- [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]]
 - [[Journal/08-2023/August 2023|August 2023]]
 - [[Journal/07-2023/July 2023]]
