@@ -18,6 +18,6 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 ## Key Landing Pages   
 - [[Quotes]]
 - [[Yearly/Yearly Goals]]
-- [[Book List]]
+- [[Reading List]]
 - [[Biology/Biology Stuff]]
 - [[The Impossible List]]

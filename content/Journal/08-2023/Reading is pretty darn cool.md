@@ -11,7 +11,7 @@ I used to love books as a kid—*Goosebumps*, the *Percy Jackson* series, you na
 
 As high school drew to a close, my perception of reading still carried the weight of a chore. I knew I *wanted* to start reading again, but I'd tell myself "I don't have time", "I don't know how to make reading feel enjoyable", and "I don't know where to start." Graduating from high school at the peak of COVID-19 in Taiwan, though, the subsequent summer vacation and lockdown—months stuck at home with nowhere to go—gave me the chance to test the waters and pick up a book again.
 
-That book turned out to be [[Book List |Things Fall Apart]] by Chinua Achebe. Super random. I had a hard copy of it since we were assigned to read it for my AP Literature class, but I'd never actually read it (thanks Sparknotes). 
+That book turned out to be [[Reading List|Things Fall Apart]] by Chinua Achebe. Super random. I had a hard copy of it since we were assigned to read it for my AP Literature class, but I'd never actually read it (thanks Sparknotes). 
 
 What truly made a difference was having unstructured and (what felt like) unlimited time during those three months. A summer without school imposing external constraints meant a summer spent doing things as an **active choice** rather than as a response to hit goals set by others and meet arbitrary deadlines. 
 

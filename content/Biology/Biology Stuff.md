@@ -13,8 +13,8 @@ Work in progress.
 	- One-letter code Sporcle [quiz](https://www.sporcle.com/games/gadget05/amino_acids_1)
 	- Three-letter code Sporcle [quiz](https://www.sporcle.com/games/njz5/aminoacid3)
 ## Books
-- [[Book List|The Gene]]
-- [[Book List|The Code Breaker]] 
+- [[Reading List|The Gene]]
+- [[Reading List|The Code Breaker]] 
 - [[Books/For Blood and Money|For Blood and Money]]
 ### Biotech
 

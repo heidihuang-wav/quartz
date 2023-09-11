@@ -1,11 +1,11 @@
 ---
-title: "Book List"
+title: Reading List
 ---
-A master list of books / novellas / short stories (1) I want to read, (2) am currently reading, (3) or have read in the past. Links are to [long-form blog posts](https://heidi-huang.ghost.io/tag/readsandreflections/) / any notes I took / thoughts about the book.
+A master list of books / novellas / short stories / essays (1) I want to read, (2) am currently reading, (3) or have read in the past. Links are to [long-form blog posts](https://heidi-huang.ghost.io/tag/readsandreflections/) / any notes I took / thoughts about the book.
 
 ## Legend
-- Book Title | Author
-- 🥇 - book that's had the most impact on me that year
+- Title | Author
+- 🥇 - text that's had the most impact on me that year
 - 🥸 - favorite fiction book of the year
 
 ## To Read
@@ -30,6 +30,7 @@ A master list of books / novellas / short stories (1) I want to read, (2) am cur
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
+- Discourse on the Arts and Sciences ([pdf](https://www.stmarys-ca.edu/sites/default/files/2023-03/arts.pdf)) | Jean-Jacques Rousseau
 - The Immortal Life of Henrietta Lacks | Rebecca Skloot
 
 ## I've Read
