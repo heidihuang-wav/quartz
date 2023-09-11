@@ -30,7 +30,7 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
-- Discourse on the Arts and Sciences ([pdf](https://www.stmarys-ca.edu/sites/default/files/2023-03/arts.pdf)) | Jean-Jacques Rousseau
+- Discourse on the Arts and Sciences (👉 [pdf](https://www.stmarys-ca.edu/sites/default/files/2023-03/arts.pdf)) | Jean-Jacques Rousseau
 - The Immortal Life of Henrietta Lacks | Rebecca Skloot
 
 ## I've Read
