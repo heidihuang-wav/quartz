@@ -8,6 +8,7 @@ enableToc: false
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 
 ## Journal (newest → oldest)
+- All [2023](https://heidihuang.dev/tags/year-2023/)
 - October 2023
 	- [[Journal/10-2023/September recap - burnout, serendipity, being a better research assistant|September recap - burnout, serendipity, being a better research assistant]]
 - September 2023
