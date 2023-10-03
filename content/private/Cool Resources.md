@@ -1,1 +1,17 @@
 - Inspiring web designs: https://www.curated.design/
+- Super cool summer class (MCB N184) syllabus
+	- 2019 syllabus [here](https://mcbdev.berkeley.edu/sites/mcb.berkeley.edu/files/downloads/undergrad/syllabus/MCELLBI%20N184_Oct%208%20%281%29.pdf)
+	- 2022 syllabus [here](https://mcb.berkeley.edu/sites/mcb.berkeley.edu/files/downloads/undergrad/syllabus/MCELLBI%20N184%20Syllabus_2022%20%281%29.pdf)
+- Super cool people that I look up to professionally
+	- Vineeta Agarwala (a16z) 
+		- https://a16z.com/author/vineeta-agarwala/
+		- https://www.linkedin.com/in/vineeta-agarwala-md-phd-674a591/
+	- https://www.venrock.com/teammember/camille-samuels/
+- Bloggers
+	- Paul Graham 
+	- Angela Jiang ([blog](https://angelajiang.com))
+	- Derek Sivers
+	- Julian Shapiro
+- Personal websites 
+	- https://ansonyu.me
+	- 

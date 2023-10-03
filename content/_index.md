@@ -1,5 +1,5 @@
 ---
-title: Heidi Huang - Thought Log 
+title: Heidi Huang • Thought Log 
 enableToc: false
 ---
 # Howdy, Heidi here.
@@ -8,6 +8,8 @@ enableToc: false
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 
 ## Journal (newest → oldest)
+- October 2023
+	- [[Journal/10-2023/September recap - burnout, serendipity, being a better research assistant|September recap - burnout, serendipity, being a better research assistant]]
 - September 2023
 	- [[Books/Deep Work|Deep Work]]
 	- [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]]

@@ -14,3 +14,11 @@
 
 Senior year
 - See if I can pick up work-study jobs 
+
+
+Potential grad school programs 
+- UCSF-UC Berkeley MTM program 
+	- More info [here](https://www.youtube.com/watch?v=QDuc5WwCn7w)
+	- People to contact to ask about their experience with the program
+		- 台灣醫生 https://www.linkedin.com/in/ming-yu-liu/details/education/ 
+- Medical Affairs - what dis? 

@@ -1,8 +1,8 @@
 ---
-title: "Reading is pretty darn cool"
+title: Reading is pretty darn cool
 tags:
-- Journal
-- August2023
+  - Journal
+  - year-2023
 ---
 ## Reading
 This story probably sounds familiar to many people. 

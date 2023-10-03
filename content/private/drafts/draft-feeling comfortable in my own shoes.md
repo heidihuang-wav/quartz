@@ -2,14 +2,16 @@ alternative titles
 - 「無為」- "falling into life kinda situation", as Lao Tzu said - "f\*ck around and find out*"
 
 ---
+Savor.
 
-applications (college and med school) have trained me to relentlessly ask “why” I’m doing what I’m doing.
+> Know thyself.
+> —Socrates
 
-to some extent, this is good. having a strong “why” can be the key to going far.
+I want to be honest with myself with what I'm good at. 
 
-but, this relentless questioning is not always needed.
+I won't know the meaning of it all, or the purpose of our existence. What I can do is to follow my gut. Fall into opportunities. Experiment. Through trial and error, and reflecting on experiences, I'll learn who I am, what motivates me, where my aptitudes lie, and gain greater self-awareness.
 
-i do this (everything I do) because I can. Because knowledge is beautiful. Because the world is fascinating. Because I love what I do. Not everything needs a well-thought-out purpose statement.
+I do everything I do because I can. Because knowledge is beautiful. Because the world is fascinating. Because I love what I do. Not everything needs a well-thought-out purpose statement, especially when you're just starting out.
 
 I like storytelling, so I write and learn how to build websites.
 
@@ -19,11 +21,14 @@ I like learning about how life works, so I study biology and do research.
 
 instead of obsessing over finding a “why,” spending time on philosophical arguments with no right or wrong, do what makes your heart sing.
 
-I don’t need have anything to prove. The fact that I get to exist is enough.
+I don’t have anything to prove. The fact that I get to exist is enough.
 
 I allow who I am. And that doesn’t conflict with trying to be a better person. Because doing more is not the only way to be a “better” person.
 
 I’m confident in my curiosity and where it’ll lead me.
+
+> Can you remember who you were, before the world told you who you should be? 
+> —Charles Bukowski
 
 ---
 

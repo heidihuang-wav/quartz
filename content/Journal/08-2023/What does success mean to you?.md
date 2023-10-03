@@ -1,8 +1,8 @@
 ---
-title: "What does success mean to you?"
+title: What does success mean to you?
 tags:
-- Journal
-- August2023
+  - Journal
+  - year-2023
 ---
 To my future self, 
 

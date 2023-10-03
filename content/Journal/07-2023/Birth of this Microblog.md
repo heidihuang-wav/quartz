@@ -1,8 +1,8 @@
 ---
-title: "Birth of this Microblog"
+title: Birth of this Microblog
 tags:
-- Journal
-- July2023
+  - Journal
+  - year-2023
 ---
 
 Dunno what I'm doing but this is cool :) and makes me very happy!

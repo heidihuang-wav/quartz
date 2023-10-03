@@ -1,8 +1,8 @@
 ---
-title: "Serendipity, file management, health"
+title: Serendipity, file management, health
 tags:
-- Journal
-- July2023
+  - Journal
+  - year-2023
 ---
 ## Serendipity and math
 $Luck = f(A, E) = f(D, S, E)$

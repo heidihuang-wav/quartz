@@ -3,15 +3,10 @@ title: "Biology Stuff"
 tags:
 - July2023
 ---
-Work in progress.
-
-## Papers
+>[!warning] Page under construction
+## Cool Papers
 - [[PDFs/A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity|A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity]]
 ## Resources
-### Biochem 
-- Amino acids
-	- One-letter code Sporcle [quiz](https://www.sporcle.com/games/gadget05/amino_acids_1)
-	- Three-letter code Sporcle [quiz](https://www.sporcle.com/games/njz5/aminoacid3)
 ## Books
 - [[Reading List|The Gene]]
 - [[Reading List|The Code Breaker]] 

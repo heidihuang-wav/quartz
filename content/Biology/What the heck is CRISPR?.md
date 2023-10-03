@@ -5,9 +5,7 @@ tags:
   - Biology
 ---
 ## Intro
-I *can* learn about molecular biology on my own outside the lab (duh lol). 
-
-I hope learning more about relevant MCB topics on my own will allow me to:
+I hope learning more about relevant biology topics will allow me to:
 1. 🌟 ask better questions, form more connections among different areas of knowledge
 2. be a more informed and helpful research assistant 
 3. have a more solid foundation in biology 

@@ -7,4 +7,4 @@ title: "people to meet"
 - Reach out to Bim-Ray this year to meet up
 - Reach out to Esther Yang to chat
 	- learnlearnlearn.substack.com 
--  
+- Ross and this MBA student (https://www.linkedin.com/in/malukannuswamy/) are trying to start a new company: Editpep

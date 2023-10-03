@@ -1,8 +1,8 @@
 ---
-title: "Statistics & personal projects"
+title: Statistics & personal projects
 tags:
-- Journal
-- July2023
+  - Journal
+  - year-2023
 ---
 ## Statistics
 Fun. It's everywhere. [[Images/Beautiful visualizations.png |Beautiful visualizations]] spark joy.

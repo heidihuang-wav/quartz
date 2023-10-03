@@ -1,8 +1,8 @@
 ---
-title: "Bentoism"
+title: Bentoism
 tags:
-- Journal
-- August2023
+  - Journal
+  - year-2023
 ---
 ### What is Bentoism? 
 > [see for yourself!](https://bentoism.org/)

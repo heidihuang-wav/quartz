@@ -5,8 +5,8 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 
 ## Legend
 - Title | Author
-- 🥇 - text that's had the most impact on me that year
-- 🥸 - favorite fiction book of the year
+- 🥇 == text that's had the most impact on me that year
+- 🥸 == favorite fiction book of the year
 
 ## To Read
 - Nightfall | Isaac Asimov
@@ -26,12 +26,12 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 - Zero to One | Peter Thiel
 - The Hard Thing about Hard Things | Ben Horowitz
 - The Sense of Style | Steven Pinker
-- The Inner Game of Tennis | W. Timothy Gallwey
+- Discourse on the Arts and Sciences (👉 [pdf](https://www.stmarys-ca.edu/sites/default/files/2023-03/arts.pdf)) | Jean-Jacques Rousseau
+- Taking the Medicine | Druin Burch
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
-- Discourse on the Arts and Sciences (👉 [pdf](https://www.stmarys-ca.edu/sites/default/files/2023-03/arts.pdf)) | Jean-Jacques Rousseau
-- The Immortal Life of Henrietta Lacks | Rebecca Skloot
+- [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]] | W. Timothy Gallwey
 
 ## I've Read
 ### 2023
@@ -47,6 +47,7 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 10. [[Books/The Land of Open Graves|The Land of Open Graves]] | Jason De León
 11. For Blood and Money | Nathan Vardi
 12. [[Books/Deep Work|Deep Work]] | Cal Newport
+13. The Immortal Life of Henrietta Lacks | Rebecca Skloot
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari

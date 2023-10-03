@@ -17,8 +17,8 @@ Cool quotes.
 >
 > [Source](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2)
 
-## Sam Altman
-> Have almost too much self-belief.
+## Franz Kafka
+> Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.
 
 ## Young Sheldon
 > Rabbi Schneiderman: Sheldon, when your days are over, God will never ask you, 'Why weren't you Einstein?' But he might ask you, 'Why weren't you Sheldon?'

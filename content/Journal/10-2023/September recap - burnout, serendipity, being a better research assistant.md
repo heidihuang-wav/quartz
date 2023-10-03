@@ -1,0 +1,18 @@
+---
+title: September recap - burnout, serendipity, being a research assistant
+tags:
+  - year-2023
+  - Journal
+---
+> [!info] Writing in progress...
+## Burnout
+Ah, first round of midterms. It's that time of the semester again.
+
+## Serendipity
+I don't post on social media, and before I started writing on my Thought Log (this website) and [blog](https://heidi-huang.ghost.io), I basically had 0 online presence. 
+
+I realized showcasing and documenting my thoughts and what I'm doing is just as important as getting out there and doing things, so I [[Journal/07-2023/Birth of this Microblog|started writing]] on this website in July 2023, with [[Journal/07-2023/Serendipity, file management, health|increasing my surface area for serendipity]] as one of my main drivers. 
+
+Reading other folks' blogs
+
+## How can I be a better research assistant?
