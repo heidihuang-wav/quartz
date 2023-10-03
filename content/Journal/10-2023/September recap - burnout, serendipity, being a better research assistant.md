@@ -13,6 +13,7 @@ I don't post on social media, and before I started writing on my Thought Log (th
 
 I realized showcasing and documenting my thoughts and what I'm doing is just as important as getting out there and doing things, so I [[Journal/07-2023/Birth of this Microblog|started writing]] on this website in July 2023, with [[Journal/07-2023/Serendipity, file management, health|increasing my surface area for serendipity]] as one of my main drivers. 
 
-Reading other folks' blogs
+When JT reached out to grab coffee after having read my writing, I
 
-## How can I be a better research assistant?
+## What kind of research assistant do I want to be? 
+

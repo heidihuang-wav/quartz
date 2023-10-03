@@ -14,4 +14,5 @@
 	- Julian Shapiro
 - Personal websites 
 	- https://ansonyu.me
-	- 
+- Companies
+	- https://retro.bio/careers/ 
