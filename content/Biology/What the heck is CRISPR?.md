@@ -1,7 +1,6 @@
 ---
 title: What the heck is CRISPR?
 tags:
-  - July2023
   - Biology
 ---
 ## Intro

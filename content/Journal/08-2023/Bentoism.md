@@ -1,8 +1,7 @@
 ---
 title: Bentoism
 tags:
-  - Journal
-  - year-2023
+  - Journal-2023
 ---
 ### What is Bentoism? 
 > [see for yourself!](https://bentoism.org/)

@@ -2,7 +2,7 @@
 title: The Inner Game of Tennis
 tags:
   - Book
-  - year-2023
+  - Journal-2023
 ---
 > [!warning] in progress
 

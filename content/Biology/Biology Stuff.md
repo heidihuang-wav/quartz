@@ -1,7 +1,7 @@
 ---
-title: "Biology Stuff"
+title: Biology Stuff
 tags:
-- July2023
+  - Biology
 ---
 >[!warning] Page under construction
 ## Cool Papers

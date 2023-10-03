@@ -19,7 +19,6 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 - Never Split the Difference | Chris Voss
 - How to Change Your Mind | Michael Pollan
 - What's Your Problem? | Thomas Wedell-Wedellsborg
-- 1984 | George Orwell
 - Thinking, Fast and Slow | Daniel Kahneman
 - The Spirit Catches You and You Fall Down | Anne Fadiman 
 - Ego is the Enemy | Ryan Holiday
@@ -31,7 +30,8 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
-- [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]] | W. Timothy Gallwey
+- 1984 | George Orwell
+- Can't Hurt Me | David Goggins
 
 ## I've Read
 ### 2023
@@ -48,6 +48,7 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 11. For Blood and Money | Nathan Vardi
 12. [[Books/Deep Work|Deep Work]] | Cal Newport
 13. The Immortal Life of Henrietta Lacks | Rebecca Skloot
+14. [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]] | W. Timothy Gallwey
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari

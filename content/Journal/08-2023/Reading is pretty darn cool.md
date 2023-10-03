@@ -1,8 +1,8 @@
 ---
 title: Reading is pretty darn cool
 tags:
-  - Journal
-  - year-2023
+  - Journal-2023
+  - Book
 ---
 ## Reading
 This story probably sounds familiar to many people. 
