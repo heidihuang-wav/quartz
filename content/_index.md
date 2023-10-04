@@ -7,7 +7,7 @@ enableToc: false
 
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 ## I'm currently writing about...
-- [[Journal/10-2023/09.2023 Recap - burnout, serendipity, being a better research assistant|09.2023 Recap - burnout, serendipity, being a better research assistant]]
+- [[Journal/10-2023/What kind of research assistant do I want to be?|What kind of research assistant do I want to be?]]
 - [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]]
 - [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]]
 

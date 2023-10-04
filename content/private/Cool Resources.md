@@ -16,3 +16,5 @@
 	- https://ansonyu.me
 - Companies
 	- https://retro.bio/careers/ 
+- Journaling 
+	- https://aliabdaal.notion.site/Journalling-Hub-6cdcfe87dc9b45d5a990b78201ed4f7a 

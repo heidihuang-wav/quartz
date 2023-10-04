@@ -7,6 +7,7 @@ tags:
 - For cool conference swag
 ### 2023-09-21
 - For cool people, as curious as they are kind, who aren't afraid to [reach out](https://heidihuang.netlify.app/contact) :) 
+	- I realized showcasing and documenting my thoughts and what I'm doing is just as important as getting out there and doing things, so I [[Journal/07-2023/Birth of this Microblog|started writing]] on this website in July 2023, with [[Journal/07-2023/Serendipity, file management, health|increasing my surface area for serendipity]] as one of my main drivers. Thank you, JT, for checking out my writing and reaching out to meet up.
 ### 2022-10-18
 - For getting the chance to attend TechCrunch Disrupt! My first exposure to TC Disrupt was through Silicon Valley (the HBO Show, Jared is awesome) in high school. Used to think it was a fictional event lol.
 - For getting that sweet deal on the [DDJ-400](https://www.pioneerdj.com/en/product/controller/ddj-400/gold/overview/) after it'd been discontinued + speakers from Camila.
