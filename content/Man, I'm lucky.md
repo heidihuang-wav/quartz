@@ -5,6 +5,11 @@ tags:
 ### 2023-09-28
 - For being in the Bay Area, being at UC Berkeley, getting to work with and learn from people I look up to and [meet more of them](https://innovativegenomics.org/inside-igi-health/) in person! (a;lskdjfal;ksdjf 🤯)
 - For cool conference swag
+### 2023-09-05 
+- For California's natural beauty (hike @ Lower Fire Trails) <br>
+![[IMG_7014.jpg]]
+<br>
+![[IMG_7012.jpg]]
 ### 2023-09-21
 - For cool people, as curious as they are kind, who aren't afraid to [reach out](https://heidihuang.netlify.app/contact) :) 
 	- I realized showcasing and documenting my thoughts and what I'm doing is just as important as getting out there and doing things, so I [[Journal/07-2023/Birth of this Microblog|started writing]] on this website in July 2023, with [[Journal/07-2023/Serendipity, file management, health|increasing my surface area for serendipity]] as one of my main drivers. Thank you, JT, for checking out my writing and reaching out to meet up.
