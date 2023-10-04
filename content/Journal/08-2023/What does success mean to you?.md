@@ -1,7 +1,6 @@
 ---
 title: What does success mean to you?
 tags:
-  - Journal
   - Journal-2023
 ---
 To my future self, 

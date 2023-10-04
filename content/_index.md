@@ -12,11 +12,12 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]]
 
 ## Key Landing Pages   
-- [[Quotes]]
-- [[Yearly/Yearly Goals]]
-- [[Reading List]]
-- [[Biology/Biology Stuff]]
-- [[The Impossible List]]
+- 📚 [[Reading List]]
+- ⏳ [[Yearly/Yearly Goals]]
+- 🧬 [[Biology/Biology Stuff]]
+- 🏔️ [[The Impossible List]]
+- 💬 [[Quotes]]
+- 😌 [[Man, I'm lucky]]
 
 ## Sort by Tags
 - [All tags](https://heidihuang.dev/tags/) 

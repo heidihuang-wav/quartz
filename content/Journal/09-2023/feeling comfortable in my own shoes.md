@@ -1,8 +1,8 @@
 ---
 title: feeling comfortable in my own shoes
 tags:
-  - Journal
   - Quotes
+  - Journal-2023
 ---
 
 to be continued...
