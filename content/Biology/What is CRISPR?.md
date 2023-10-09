@@ -1,5 +1,5 @@
 ---
-title: What the heck is CRISPR?
+title: What is CRISPR?
 tags:
   - Biology
 ---
@@ -47,7 +47,7 @@ I hope learning more about relevant biology topics will allow me to:
 
 ### Cas9 protein and how it works
 - Cas9: single, 2-lobed protein made of **domains** (dynamic regions) 
-	- Recognition lobe (REC) - top lobe, carries [[Biology/What the heck is CRISPR?#^8f88c1|guide RNA]] (gRNA)
+	- Recognition lobe (REC) - top lobe, carries [[Biology/What is CRISPR?#^8f88c1|guide RNA]] (gRNA)
 	- Nuclease lobe (NUC) - bottom lobe, contains 2 separate nuclease domains: HNH and RuvC, make up the blades of the molecular scissors
 ### Identifying the right DNA target
 #### PAM Recognition
