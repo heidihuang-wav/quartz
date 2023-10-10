@@ -10,18 +10,11 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - [[Journal/10-2023/What kind of research assistant do I want to be?|What kind of research assistant do I want to be?]]
 - [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]]
 - [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]]
-
 ## Key Landing Pages   
+- ⚡️ [[Now]]
 - 📚 [[Reading List]]
 - ⏳ [[Yearly/Yearly Goals]]
 - 🧬 [[Biology/Biology Stuff]]
 - 🏔️ [[The Impossible List]]
 - 💬 [[Quotes]]
 - 😌 [[Man, I'm lucky]]
-
-## Sort by Tags
-- [All tags](https://heidihuang.dev/tags/) 
-- Journal entries
-	- [Journal 2023](https://heidihuang.dev/tags/Journal-2023/)
-- [Books](https://heidihuang.dev/tags/Book/) 
-- [Biology](https://heidihuang.dev/tags/Biology/)

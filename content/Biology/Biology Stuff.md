@@ -12,4 +12,4 @@ tags:
 - [[Books/For Blood and Money|For Blood and Money]]
 ## Random (for now)
 - [[Biology/What is CRISPR?|What is CRISPR?]]
-- [[Flow Cytometry]]
+- [[Biology/Flow Cytometry]]
