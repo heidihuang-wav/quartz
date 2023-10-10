@@ -4,7 +4,7 @@ tags:
 ---
 >[!info] What I'm up to these days. Updated monthly.
 ## Location
-📍 Berkeley, California, USA
+📍 Berkeley, California, USA <br> 
 🌁 And, more broadly, the San Francisco Bay Area
 ## I've been...
 - Learning mainly Portuguese + some Cantonese on Duolingo
