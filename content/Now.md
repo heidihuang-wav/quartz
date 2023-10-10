@@ -5,9 +5,10 @@ tags:
 >[!info] What I'm up to these days. Updated monthly.
 ## Location
 📍 Berkeley, California, USA
+🌁 And, more broadly, the San Francisco Bay Area
 ## I've been...
 - Learning mainly Portuguese + some Cantonese on Duolingo
-- Spending more time at the lab
+- Spending more time in lab
 - Kinda burnt out - Fall 2023 is a semester with tough classes and many commitments, and I haven't really taken an actual, extended break since Fall 2021 - I need to figure something out.
 - Having the occasional "what am I gonna do after graduation" crisis
 - Gradually figuring out what I want to do through a long, non-linear process of elimination
