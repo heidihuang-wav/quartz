@@ -10,23 +10,24 @@ title: Efficient genome editing in the mouse brain by local delivery of engineer
 4. Increasing the number of NLS sequences on Cas9 improves cell penetration and editing efficiency in cultured cells. Mixing RNPs with Lipofectamine2000 (transfection reagent) also facilitates RNP delivery into the cytoplasm in various cell types. 
 
 ## Other Notes
-- Background (what is the gap in knowledge this research is trying to address?)
-	- Previous studies have shown the utility of Cas9-mediated genome editing in various tissues, but the challenge of tissue-specific delivery, especially in the complex neural environment, remain a significant hurdle
-- Hypothesis
-	- The engineered Cas9 RNP complexes with multiple NLS will enhance the efficiency of genome editing in neurons within the adult mouse brain. 
+### Background 
+> what is the gap in knowledge this research is trying to address?
+- Previous studies have shown the utility of Cas9-mediated genome editing in various tissues, but the challenge of tissue-specific delivery, especially in the complex neural environment, remain a significant hurdle
+### Hypothesis
+ The engineered Cas9 RNP complexes with multiple NLS will enhance the efficiency of genome editing in neurons within the adult mouse brain. 
 	- These RNPs can overcome issues related to tissue-specific delivery, immune responses, and off-target effects, making them a more promising tool for correcting genetic causes of neurological diseases.
-- Observations
-	1. Engineered Cas9 RNP complexes, particularly the 4×NLS-Cas9-2×NLS variant, demonstrate a tenfold increase in efficiency for genome editing in neurons within the adult mouse brain, effectively addressing the challenge of tissue-specific delivery.
-	2. In vivo genome editing with these RNPs is specific to the target gene (tdTomato), showing that RNPs are precise and do not result in off-target effects.
-	3. The RNP-mediated editing is observed in various neuronal subtypes within the brain, confirming the potential for neuron-specific targeting and treatment of genetic neurological diseases.
-	4. Increasing the RNP dose leads to a higher number and volume of genome-edited cells, indicating a dose-dependent response to RNP delivery.
-	5. The study shows minimal immune response to Cas9 RNPs injected into the brain, suggesting the feasibility of safe and precise Cas9-RNP delivery for therapeutic purposes.
-- Experiments (lines of evidence to support the conclusion) 
-	1. Testing different Cas9 RNP variants with varying NLS sequences in cultured cells and in the adult mouse brain. 
-	2. Stereotaxic injections of RNPs targeting tdTomato in various brain regions and subsequent analysis of edited cells.
-	3. Dual-color immunofluorescence to identify the specific neuronal subtypes edited by 4xNLS-Cas9-2xNLS RNPs. 
-	4. Dose-dependent experiments to assess the effect of RNP quantity on the number and volume of edited cells. 
-	5. Analysis of microglia activation and immune response in the brain following RNP injection.
-- Iteration (proposed next steps, future directions, or gaps identified)
-	1. Further exploration of the mechanisms underlying the in vivo neurotropism of 4×NLS-Cas9-2×NLS RNPs to understand how they specifically target neurons, potentially leading to the development of even more efficient delivery methods.
-	2. Additional research to assess the safety and potential adaptive responses in the context of therapeutic Cas9-RNP delivery, with a focus on minimizing any immune-related side effects.
+### Experiments
+1. Testing different Cas9 RNP variants with varying NLS sequences in cultured cells and in the adult mouse brain. 
+2. Stereotaxic injections of RNPs targeting tdTomato in various brain regions and subsequent analysis of edited cells.
+3. Dual-color immunofluorescence to identify the specific neuronal subtypes edited by 4xNLS-Cas9-2xNLS RNPs. 
+4. Dose-dependent experiments to assess the effect of RNP quantity on the number and volume of edited cells. 
+5. Analysis of microglia activation and immune response in the brain following RNP injection.
+### Observations and Conclusions
+1. Engineered Cas9 RNP complexes, particularly the 4×NLS-Cas9-2×NLS variant, demonstrate a tenfold increase in efficiency for genome editing in neurons within the adult mouse brain, effectively addressing the challenge of tissue-specific delivery.
+2. In vivo genome editing with these RNPs is specific to the target gene (tdTomato), showing that RNPs are precise and do not result in off-target effects.
+3. The RNP-mediated editing is observed in various neuronal subtypes within the brain, confirming the potential for neuron-specific targeting and treatment of genetic neurological diseases.
+4. Increasing the RNP dose leads to a higher number and volume of genome-edited cells, indicating a dose-dependent response to RNP delivery.
+5. The study shows minimal immune response to Cas9 RNPs injected into the brain, suggesting the feasibility of safe and precise Cas9-RNP delivery for therapeutic purposes.
+### Iteration / Future Directions
+1.  Further exploration of the mechanisms underlying the in vivo neurotropism of 4×NLS-Cas9-2×NLS RNPs to understand how they specifically target neurons, potentially leading to the development of even more efficient delivery methods.
+2. Additional research to assess the safety and potential adaptive responses in the context of therapeutic Cas9-RNP delivery, with a focus on minimizing any immune-related side effects.
