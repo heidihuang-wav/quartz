@@ -12,6 +12,6 @@ tags:
 - For California's *accessible* natural beauty (hike @ Lower Fire Trails, right next to campus). Went in between classes on a Tuesday afternoon.<br>
 ![[Images/FireTrails1.jpg]]<br>
 ### 2022-10-18
-- For getting the chance to attend TechCrunch Disrupt! My first exposure to TC Disrupt was through Silicon Valley (the HBO Show, Jared is awesome) in high school. Used to think it was a fictional event lol.
+- For getting the chance to attend TechCrunch Disrupt! My first exposure to TC Disrupt was through Silicon Valley (the HBO Show. Jared is the best character) in high school. Used to think TC Disrupt was a fictional event. 😅
 - For getting that sweet deal on the [DDJ-400](https://www.pioneerdj.com/en/product/controller/ddj-400/gold/overview/) after it'd been discontinued + speakers from Camila.
 - For having a really kind Uber driver (Korean-American man from Arizona). We talked about the NBA (The Redeem Team documentary on Netflix), growing up as an Asian person in a predominantly white area in the 70s, barbecue places, his daughters, and more. Thank you, John, for making the drive from Camila's place in Sausalito back to Berkeley memorable.

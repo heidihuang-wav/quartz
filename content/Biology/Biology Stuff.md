@@ -4,12 +4,16 @@ tags:
   - Biology
 ---
 >[!warning] Page under construction
-## Cool Stuff
+## Cool Papers
+1. [[Efficient genome editing in the mouse brain by local delivery of engineered Cas9 RNP complexes]]
+2. In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates
+3. Engineering precision nanoparticles for drug delivery
+4. A traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction 
 - [[PDFs/A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity|A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity]]
 ## Books I've Read  
 - [[Reading List|The Gene]]
 - [[Reading List|The Code Breaker]] 
 - [[Books/For Blood and Money|For Blood and Money]]
-## Random (for now)
-- [[Biology/What is CRISPR?|What is CRISPR?]]
-- [[Biology/Flow Cytometry]]
+## random stuff
+- [[Glossary]]
+- [[Journal/10-2023/What kind of research assistant do I want to be?|What kind of research assistant do I want to be?]]
