@@ -5,7 +5,7 @@ tags:
 >[!info] What I'm up to these days. Updated monthly.
 ## Location
 📍 Berkeley, California, USA <br> 
-🌁 And, more broadly, the San Francisco Bay Area
+🌉 And, more broadly, the San Francisco Bay Area 
 ## I've been...
 - Learning mainly Portuguese + some Cantonese on Duolingo
 - Spending more time in lab
@@ -20,7 +20,7 @@ tags:
 - Putting together a progressive house DJ set, like [this one](https://www.youtube.com/watch?v=VhPa0XYA5DA&t=1888s)
 - [[Reading List|Reading]]
 ## Professional stuff
-- Undergrad double majoring in Molecular and Cell Biology and Public Health @ UC Berkeley
-- Research assistant at the Innovative Genomics Institute
+- Undergrad double majoring in Molecular and Cell [[Biology/Biology Stuff|Biology]] and Public Health @ UC Berkeley
+- [[Journal/10-2023/What kind of research assistant do I want to be?|Research assistant]] at the Innovative Genomics Institute
 - Patient scribe
 - VP of Women in Weightlifting 
