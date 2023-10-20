@@ -3,5 +3,6 @@ title: Glossary
 tags:
   - Biology
 ---
-- Lab techniques / methods
+- Lab techniques
 	- [[Biology/Flow Cytometry|Flow Cytometry]]
+	- [[Cell culture tips]]
