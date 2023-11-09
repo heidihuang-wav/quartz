@@ -23,4 +23,4 @@ tags:
 - Undergrad double majoring in Molecular and Cell [[Biology/Biology Stuff|Biology]] and Public Health @ UC Berkeley
 - [[Journal/10-2023/What kind of research assistant do I want to be?|Research assistant]] @ the Innovative Genomics Institute
 - Patient scribe @ UCSF
-- VP of Women in Weightlifting  o
+- VP of Women in Weightlifting 
