@@ -14,7 +14,6 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 - The Genome Odyssey | Euan Angus Ashley
 - The Gulag Archipelago | Aleksandr Solzhenitsyn
 - Build | Tony Fadell
-- Bad Blood | John Carreyrou
 - The Origin of Species | Charles Darwin
 - Never Split the Difference | Chris Voss
 - How to Change Your Mind | Michael Pollan
@@ -31,7 +30,6 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
 - 1984 | George Orwell
-- Can't Hurt Me | David Goggins
 
 ## I've Read
 ### 2023
@@ -53,6 +51,8 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 | 12. [[Books/Deep Work\|Deep Work]] | Cal Newport |   ★★★★ |
 | 13. The Immortal Life of Henrietta Lacks | Rebecca Skloot |  ★★★★★ |
 | 14. [[Journal/09-2023/The Inner Game of Tennis\|The Inner Game of Tennis]] | W. Timothy Gallwey |  ★★★★ |
+| 15. Can't Hurt Me | David Goggins |  ★★★ |
+| 16. Bad Blood | John Carreyrou |  ★★★★★ |
 
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari | 4★
