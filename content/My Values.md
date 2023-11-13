@@ -19,18 +19,20 @@ Be present. Go on walks and take in the scenery. What looks the same, and what l
 
 Show that you care.
 ## Creative.
-Produce music. Write. Cook. Code. 
+Keep producing music, writing, cooking, and coding. 
 
-tl;dr Make things, have fun. 
+Make things, have fun. 
 ## Earnest.
 > Source: Paul Graham's [essay on earnestness](http://www.paulgraham.com/earnest.html)
 
-Do things for the right reasons and trying as hard as I can at doing those things.
+Do things for the right reasons and try as hard as you can at doing those things.
 
 ## Introspective.
 Reflect on what you're doing. Why are you doing what you're doing? 
-If you continue down this trajectory, where will you be in ten years? Is that where you want to be?
+If you continue down this trajectory, where will you be in X years? Is that where you want to be?
 ## Open-minded.
-Try new things. If you never mess around, you'll never find out. 
+If you never mess around, you'll never find out. 
+
+Be open to honest feedback and criticism.
 ## Grateful.
-Exude vitality. Never lose that sense of joie de vivre.
+Exude vitality. Never lose that sense of joie de vivre. Remember to *express* your gratitude.
