@@ -41,5 +41,5 @@ Comments
 
 ## Reminder: Why Did I Choose These Goals?
 
-1. Health. Also spending time outside makes me happy. Most of what I do (work, study, texting/calling, music, shows, etc.) consists of sitting on my ass, so it’s important to get moving. As I continue to study physiology, public health, and metabolic diseases, I want my identity to be associated with healthy living, so I should lead by example.
+1. Health. Also spending time outside makes me happy. Most of what I do (work, study, texting/calling, music, shows, etc.) consists of sitting down and being stationary, so it’s important to get moving. As I continue to study physiology, public health, and metabolic diseases, I want my identity to be associated with healthy living, so I should lead by example.
 2. To learn stuff outside of school (nonfiction). For fun (fiction). To discover new things and learn about the world. To get into the habit of lifelong learning.

@@ -4,7 +4,7 @@ tags:
   - Biology
 ---
 As my postdoc / mentor likes to say, 
-> Trust no one
+> Trust no one. (only applies to cell culture, not to life in general)
 
 ## Tips
 - Before each use

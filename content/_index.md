@@ -12,7 +12,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]]
 ## Key Landing Pages  
 - ⚡️ [[Now]]
-- 🎯 [[how i want to live]]
+- 🎯 [[My Values]]
 - 📚 [[Reading List]]
 - 😌 [[Man, I'm lucky]]
 ## Other Pages
