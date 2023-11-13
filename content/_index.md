@@ -16,6 +16,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - 📚 [[Reading List]]
 - 😌 [[Man, I'm lucky]]
 ## Other Pages
+> All posts sorted by tags [here](https://heidihuang.dev/tags/)
 - ⏳ [[Yearly/Yearly Goals]]
 - 🧬 [[Biology/Biology Stuff]]
 - 🏔️ [[The Impossible List]]
