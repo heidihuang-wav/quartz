@@ -5,7 +5,7 @@ title: the cards I've been dealt
 subtitle: on resilience.
 
 Dear friends, 
-If my life was a deck of cards, each card representing a distinct experience, I have a pretty good hand. I feel incredibly [[Man, I'm lucky|lucky]] - to have you all, to be in the Bay Area, and to have the amazing opportunity to learn from people I look up to at the Innovative Genomics Institute. 
+If my life was a deck of cards, each card representing a distinct experience, I have a pretty good hand. I feel incredibly lucky (link to man im lucky page) - to have you all, to be in the Bay Area, and to have the amazing opportunity to learn from people I look up to at the Innovative Genomics Institute. 
 
 At the same time, I also have some pretty shitty cards, most of which represent something I don't feel comfortable writing about in public (yet) and consist of experiences that have left me feeling trapped, suffocated, and doubted. Formative experiences woven deep into my fabric of existence.
 
