@@ -17,7 +17,7 @@ Sometimes I wonder if diving head first into work is just a way for me to ignore
 
 
 Poker metaphor - take a gamble
-Breaking out of my cage comes with consequences, though. But as I've gotten older and understood the costs of my actions, I've decided I'd rather have a go at it and deal with the ugly, ugly consequences than not live at all. 
+Breaking out of my cage comes with consequences. But as I've gotten older and understood the costs of my actions, I've decided I'd rather have a go at it and deal with the ugly, ugly consequences than not live at all. 
 
 Dealing with the consequences gets easier, or so I thought. But they accumulate, and can be a lot to take in sometimes.
 
@@ -47,7 +47,7 @@ The art of building a new hand, a hand of confidence, aspiration, and hope.
 
 I can't control everything. So be it. There will always be randomness and uncertainty.
 
-I won't go so far as to say I'm happy I had shitty cards to begin with. I'm not. At the same time, every one has starts out with _some_ shitty cards, they just take different forms.
+I won't go so far as to say I'm happy I had shitty cards to begin with. I'm not. At the same time, every one starts out with _some_ shitty cards, they just take different forms.
 For what it's worthy, they make me appreciate the hand I now have. 
 
 

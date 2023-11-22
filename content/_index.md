@@ -7,9 +7,9 @@ enableToc: false
 
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 ## I'm writing about...
-- [[Cell culture tips]]
 - [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]] 
-- [[Journal/09-2023/The Inner Game of Tennis|The Inner Game of Tennis]]
+- [[Real talk - interesting conversation questions]]
+- [[Everything I know about fitness]]
 ## Key Landing Pages  
 - ⚡️ [[Now]]
 - 🎯 [[My Values]]
