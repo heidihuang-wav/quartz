@@ -27,7 +27,8 @@ When did you last leave your comfort zone?
 13. In what ways do you differ most from your parents?
 14. What are three personal qualities you love most about yourself?
 15. What are you currently worrying about, if anything? What could happen to make you stop worrying about it?
-16. What’s something you went through that you wouldn’t wish on your worst enemy?
+16. What energizes you? What drains you?
+
 ## Level 3: the midnight zone 🐙
 > even more personal insights
 16. What’s the most illegal act you’ve ever done and are comfortable sharing?
@@ -42,15 +43,17 @@ When did you last leave your comfort zone?
 26. What is something you never thought you'd be able to do, until you actually did it?
 27. What, if anything, is too serious to be joked about?
 28. When do you feel like the best version of yourself?
+29. What’s something you went through that you wouldn’t wish on your worst enemy?
 ## Level 4: the abyss 🌌
 > most personal
 32. What do you want written on your tombstone?
 33. What does success mean to you?
-34. What is the most pain you've experienced in your life?
-35. Are you currently pursuing what makes you happy? Why or why not?
-36. Was there ever a moment when you thought you were going to die?
-37. What *wouldn't* you do for someone you love?
-38. If you died today, what would be your biggest regret?
-39. Have you ever hit “rock bottom”? What did it look and feel like to you? What situations or decisions led to it? How did you get out, or have you gotten out yet?
-42. What’s the most important self-discovery you made about yourself in the past year?
-43. How do you think humanity will go extinct?
+34. How has your relationship with yourself changed over time?
+35. What is the most pain you've experienced in your life?
+36. Are you currently pursuing what makes you happy? Why or why not?
+37. Was there ever a moment when you thought you were going to die?
+38. What *wouldn't* you do for someone you love?
+39. If you died today, what would be your biggest regret?
+40. Have you ever hit “rock bottom”? What did it look and feel like to you? What situations or decisions led to it? How did you get out, or have you gotten out yet?
+41. What’s the most important self-discovery you made about yourself in the past year?
+42. How do you think humanity will go extinct?
