@@ -21,7 +21,6 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 - Thinking, Fast and Slow | Daniel Kahneman
 - The Spirit Catches You and You Fall Down | Anne Fadiman 
 - Ego is the Enemy | Ryan Holiday
-- Zero to One | Peter Thiel
 - The Hard Thing about Hard Things | Ben Horowitz
 - The Sense of Style | Steven Pinker
 - Taking the Medicine | Druin Burch
@@ -53,7 +52,8 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 | 14. [[Journal/09-2023/The Inner Game of Tennis\|The Inner Game of Tennis]] | W. Timothy Gallwey |  ★★★★ |
 | 15. Can't Hurt Me | David Goggins |  ★★★ |
 | 16. Bad Blood | John Carreyrou |  ★★★★★ |
-
+| 17. Zero to One | Peter Thiel |  ★★★★ |
+| 18. The Almanack of Naval Ravikant| Eric Jorgenson |  ★★★★ |
 ### 2022
 1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari | 4★
 2. 🥇 [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi | 5★

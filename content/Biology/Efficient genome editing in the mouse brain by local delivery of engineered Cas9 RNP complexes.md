@@ -24,10 +24,12 @@ title: Efficient genome editing in the mouse brain by local delivery of engineer
 5. Analysis of microglia activation and immune response in the brain following RNP injection.
 ### Observations and Conclusions
 1. Engineered Cas9 RNP complexes, particularly the 4×NLS-Cas9-2×NLS variant, demonstrate a tenfold increase in efficiency for genome editing in neurons within the adult mouse brain, effectively addressing the challenge of tissue-specific delivery.
-2. In vivo genome editing with these RNPs is specific to the target gene (tdTomato), showing that RNPs are precise and do not result in off-target effects.
-3. The RNP-mediated editing is observed in various neuronal subtypes within the brain, confirming the potential for neuron-specific targeting and treatment of genetic neurological diseases.
-4. Increasing the RNP dose leads to a higher number and volume of genome-edited cells, indicating a dose-dependent response to RNP delivery.
-5. The study shows minimal immune response to Cas9 RNPs injected into the brain, suggesting the feasibility of safe and precise Cas9-RNP delivery for therapeutic purposes.
+	- i.e. NLS-rich CRISPR enzymes can self-deliver into neurons following local injection into brain tissue 
+	- NLS signals are similar to a typical cell-penetrating peptide
+1. In vivo genome editing with these RNPs is specific to the target gene (tdTomato), showing that RNPs are precise and do not result in off-target effects.
+2. The RNP-mediated editing is observed in various neuronal subtypes within the brain, confirming the potential for neuron-specific targeting and treatment of genetic neurological diseases.
+3. Increasing the RNP dose leads to a higher number and volume of genome-edited cells, indicating a dose-dependent response to RNP delivery.
+4. The study shows minimal immune response to Cas9 RNPs injected into the brain, suggesting the feasibility of safe and precise Cas9-RNP delivery for therapeutic purposes.
 ### Iteration / Future Directions
 1.  Further exploration of the mechanisms underlying the in vivo neurotropism of 4×NLS-Cas9-2×NLS RNPs to understand how they specifically target neurons, potentially leading to the development of even more efficient delivery methods.
 2. Additional research to assess the safety and potential adaptive responses in the context of therapeutic Cas9-RNP delivery, with a focus on minimizing any immune-related side effects.

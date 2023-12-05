@@ -28,6 +28,8 @@ links:
     link: https://heidihuang.netlify.app
   - link_name: Blog
     link: https://heidi-huang.ghost.io
+  - link_name: Substack
+    link: https://heidihuang.substack.com/ 
 favicon: |
   <link rel="shortcut icon" href="apple-touch-icon.png" type="image/png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">  

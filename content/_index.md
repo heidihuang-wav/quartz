@@ -3,11 +3,12 @@ title: Heidi Huang • Thought Log
 enableToc: false
 ---
 # Howdy, Heidi here.
-> [!tip] Working with my garage door up since 2023.
+> [!tip] Learning in public since 2023.
 
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 ## I'm writing about...
 - [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]] 
+- [[Biology/In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates|In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates]]
 - [[Real talk - interesting conversation questions]]
 - [[Everything I know about fitness]]
 ## Key Landing Pages  
@@ -20,4 +21,4 @@ Welcome to my **thought log**: the place for all my scattered notes and updates,
 - ⏳ [[Yearly/Yearly Goals]]
 - 🧬 [[Biology/Biology Stuff]]
 - 🏔️ [[The Impossible List]]
-- 💬 [[Quotes]]
+- 💬 [[Quotes]] 

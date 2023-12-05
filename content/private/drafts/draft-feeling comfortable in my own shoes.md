@@ -36,8 +36,6 @@ I’m confident in my curiosity and where it’ll lead me.
 
 "study broadly and without fear"
 
-Title: “oh, the choices you’ll make”
-
 How do you know if you’re doing the _right_ thing?
 
 One of the rarest and most rewarding feelings is knowing I’ve chosen to do something that feels undeniably right.
