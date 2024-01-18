@@ -7,8 +7,7 @@ enableToc: false
 
 Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
 ## I'm writing about...
-- [[Journal/09-2023/feeling comfortable in my own shoes|feeling comfortable in my own shoes]] 
-- [[Biology/In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates|In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates]]
+- [[Biology/A traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction|A traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction]]
 - [[Real talk - interesting conversation questions]]
 - [[Everything I know about fitness]]
 ## Key Landing Pages  

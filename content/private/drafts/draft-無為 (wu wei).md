@@ -1,4 +1,0 @@
-subtitle: on intuitive living
-
-
-

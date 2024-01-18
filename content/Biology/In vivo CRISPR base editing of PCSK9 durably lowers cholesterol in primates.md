@@ -1,5 +1,8 @@
 ---
 title: In vivo CRISPR base editing of PCSK9 durably lowers cholesterol in primates
+tags:
+  - Biology
+  - Paper
 ---
 > [Link](https://www.nature.com/articles/s41586-021-03534-y) to paper
 ## Summary

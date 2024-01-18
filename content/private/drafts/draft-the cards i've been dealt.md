@@ -92,3 +92,23 @@ Title: "Dealing with the Hand I Was Given"
    Conclude by reflecting on your journey and how you're gradually feeling more comfortable in your own shoes, growing one day at a time, despite the cards you've been dealt.
 
 Using this metaphor, you can convey the complexity of your experiences, the adversity you've faced, and the positive changes you've made in your life. It allows readers to understand your journey in a relatable and meaningful way.
+
+----
+
+You're four years old, sitting in the back seat of EH and CH's car. You cover your ears as the arguing grows louder and louder. 
+
+describe the scene
+
+Ten years old.
+You remember being called a "retard" for not solving a math problem correctly. 
+
+Twelve years old.
+School was your happy place. You didn't want to leave because leaving meant returning to a place of darkness. Of negativity. 
+
+Eighteen years old. 
+You're *devastated* when you decide to commit to UC Berkeley. Yes, this sounds ridiculous, but CH was disappointed in you for "only getting into Berkeley."
+
+You lie in bed, staring at the ceiling. In your pitch-black bedroom, you listen to "Let You Down" by NF on repeat wondering where you went wrong.
+
+You are infinitely grateful to have a roof on your head, food to eat, and clothes to wear, but you have a big, gaping hole in your heart that just can't seem to heal. You wonder if it will ever heal. 
+
