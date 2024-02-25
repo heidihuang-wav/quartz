@@ -5,7 +5,9 @@ enableToc: false
 # Howdy, Heidi here.
 > [!tip] Learning in public since 2023.
 
-Welcome to my **thought log**: the place for all my scattered notes and updates, aka a lower-stakes environment to store and share my ideas compared to my [blog](https://heidi-huang.ghost.io), and any connections between them. 
+Welcome to my **thought log**: the place for all my scattered notes and updates.
+
+- [[Thoughts in Passing]]
 ## I'm writing about...
 - [[Journal/2023/2023 Learnings|2023 Learnings]]
 - [[Journal/2024/Leaning into my curiosity|Leaning into my curiosity]]
