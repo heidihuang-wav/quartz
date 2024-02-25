@@ -17,4 +17,4 @@ tags:
 - [[Books/For Blood and Money|For Blood and Money]]
 ## random stuff
 - [[Biology/Glossary]]
-- [[Journal/10-2023/What kind of research assistant do I want to be?|What kind of research assistant do I want to be?]]
+- [[Journal/2023/What kind of research assistant do I want to be?|What kind of research assistant do I want to be?]]

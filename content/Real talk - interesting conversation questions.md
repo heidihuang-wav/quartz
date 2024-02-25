@@ -6,8 +6,7 @@ tags:
 Pull up a [random number generator](https://www.random.org/) and ask away! 
 
 Remember to create a safe, non-judgmental space for everyone participating. If you'd like to add to the list, feel free to [contact me](https://heidihuang.netlify.app/contact.html) with suggestions for questions. 
-## Level 1: the sunlight zone 🦭 
-> most casual
+
 1. What does a perfect day look like to you?
 2. What’s the best compliment you’ve ever received?
 3. What is something "weird" you do that you wonder if other people do as well?
@@ -15,9 +14,6 @@ Remember to create a safe, non-judgmental space for everyone participating. If y
 5. What activity makes you lose track of time?
 6. What will never cease to make you smile?
 7. How has your day / week / year been going so far?
-## Level 2: the twilight zone 🐟
-> more personal 
-
 8. When did you last leave your comfort zone?
 9. What's the best gift you've ever given or received?
 10. What are the worst and best things about where you currently live?
@@ -28,9 +24,6 @@ Remember to create a safe, non-judgmental space for everyone participating. If y
 15. What are three personal qualities you love most about yourself?
 16. What are you currently worrying about, if anything? What could happen to make you stop worrying about it?
 17. What energizes you? What drains you?
-
-## Level 3: the midnight zone 🐙
-> even more personal insights
 18. What’s the most illegal act you’ve ever done and are comfortable sharing?
 19. What character trait instantly makes you respect someone?
 20. What’s the biggest fight you’ve gotten into, and what was it about?
@@ -44,8 +37,6 @@ Remember to create a safe, non-judgmental space for everyone participating. If y
 28. What, if anything, is too serious to be joked about?
 29. When do you feel like the best version of yourself?
 30. What’s something you went through that you wouldn’t wish on your worst enemy?
-## Level 4: the abyss 🌌
-> most personal
 31. What do you want written on your tombstone?
 32. What does success mean to you?
 33. How has your relationship with yourself changed over time?
