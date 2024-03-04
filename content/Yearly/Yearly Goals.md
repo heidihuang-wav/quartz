@@ -10,6 +10,7 @@ Think of it as New Year's resolutions, but with an extra dose of structure.
 I started getting back into reading in 2021. Now is a good time to reinforce reading as a habit.
 - [[Yearly/2023 Initial Goal Setting|2023 Initial Goal Setting]]
 - [[Yearly/2023 Mid-year Check-in|2023 Mid-year Check-in]]
+- [[Yearly/2023 End-of-year Review|2023 End-of-year Review]]
 ## 2022
 > [!check] To consistently (on average 4 days/week) exercise (lifting weights + doing cardio)
 
