@@ -50,6 +50,9 @@ Books are also a compelling media form for these reasons:
 	- **Interpretation**: When we engage with a text on a personal level, we become active participants in the storytelling process. I love hearing what other folks have to say about the same book I read.
 - **Improved Writing Skills**
 
+Update (3/18/2024) 
+- Observing what you're reading is a good way to tell what you're truly interested in
+
 ## Annual Personal Goal-Setting
 
 So, reading is pretty darn cool. For all the reasons I mentioned above, I want ==to read a book every month== in 2023. You can read more about that here: [[Yearly/2023 Initial Goal Setting|2023 Initial Goal Setting]]

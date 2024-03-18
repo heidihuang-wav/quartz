@@ -3,8 +3,6 @@ title: My Values
 tags:
   - Journal-2023
 ---
-> [!warning] writing in progress...
-
 I'd like to be...
 ## Intentional.
 Have clarity in your values and self-defined purpose.

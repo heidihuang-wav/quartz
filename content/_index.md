@@ -11,7 +11,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 ## I'm writing about...
 - [[Journal/2023/2023 Learnings|2023 Learnings]]
 - [[Journal/2024/Leaning into my curiosity|Leaning into my curiosity]]
-- [[Everything I know about fitness]]
+- [[Everything I know about fitness & nutrition]]
 ## Key Landing Pages  
 - ⚡️ [[Now]]
 - 🎯 [[My Values]]
@@ -25,3 +25,4 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 - 🧬 [[Biology/Biology Stuff]]
 - 🏔️ [[The Impossible List]]
 - 💬 [[Quotes]] 
+- 🔺 [[Changelog]]

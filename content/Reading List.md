@@ -14,14 +14,17 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 ## Currently Reading
 - The Code Breaker | Walter Isaacson
 - Born to Run | Christopher McDougall
+- The Genome Odyssey | Euan Angus Ashley
 
 ## I've Read
 ### 2024 
-> in chronological order, from the beginning of the year to the end
+> in chronological order
 1. `Outlive`| Peter Attia | 4★
 2. `Better` | Atul Gawande | 4★
 3. `The Healing of America` | T.R. Reid | 5★, possibly the most frustrated i've ever felt after reading any book
 4. `The Emperor of All Maladies` | Siddartha Mukherjee | 4★
+5. `Grit` | Angela Duckworth | 3.5★
+6. 
 
 ### 2023
 > in no particular order

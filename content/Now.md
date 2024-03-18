@@ -8,7 +8,6 @@ tags:
 🌉 And, more broadly, the San Francisco Bay Area 
 ## Current obsessions: I've been...
 - Learning mainly Portuguese on Duolingo
-	- Thinking about breaking my 450+ day streak because I'm not sure if I'm really learning anything 🥴 
 - Trying to gain a more fundamental understanding of my postdoc mentor's / my lab's research
 	- The process of writing a research proposal for my senior thesis has helped with this tremendously
 - Gradually figuring out what I want to do through a long, non-linear process of elimination
