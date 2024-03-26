@@ -1,5 +1,7 @@
 ---
 title: Reading List
+tags:
+  - Evergreen
 ---
 A master list of books / novellas / short stories / essays (1) I want to read, (2) am currently reading, (3) or have read in the past. Links are to [long-form blog posts](https://heidihuang.com/books/) / any notes I took / thoughts about the book.
 
@@ -50,7 +52,7 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 
 ### 2022
 > in no particular order
-1. [Sapiens](https://heidi-huang.ghost.io/sapiens/) | Yuval Noah Harrari | 4★
+1. [[Books/Sapiens|Sapiens]] | Yuval Noah Harrari | 4★
 2. 🥇 [When Breath Becomes Air](https://heidi-huang.ghost.io/when-breath-becomes-air/) | Paul Kalanithi | 5★
 3. `Capitalist Realism` | Mark Fisher | 4★
 4. `Principles` | Ray Dalio | 4★

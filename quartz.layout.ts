@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Substack": "https://heidihuang.substack.com/",
-      "YouTube": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
+      "My Music": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
+      "Let's Chat!": "https://heidihuang.netlify.app/contact",
     },
   }),
 }

@@ -1,6 +1,7 @@
 ---
 title: Now
 tags:
+  - Evergreen
 ---
 >[!info] What I'm up to these days. Updated monthly.
 ## Location
