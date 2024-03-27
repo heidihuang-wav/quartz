@@ -33,7 +33,7 @@ Despite the physical distance, your lives remain connected, a shared journey of 
 
 To VW and all the friends who have walked with me on this journey, thank you.
 
-Here's to the journey ahead and to growing together.
+Here's to the journey ahead. 
 
 
 
