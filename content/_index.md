@@ -10,7 +10,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 - [[Thoughts in Passing]]
 ## I'm Writing About...
 - [[Everything I know about fitness & nutrition]]
-- [[Journal/2024/On Journaling|On Journaling]]
+- [[Journal/2024/Growing pains]]
 - [[Journal/2023/2023 Learnings|2023 Learnings]]
 ## Evergreen Pages
 - ⚡️ [[Now]]
