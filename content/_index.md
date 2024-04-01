@@ -17,11 +17,12 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 - 🎯 [[My Values, Beliefs, & Questions]]
 - 📚 [[Reading List]]
 - ⏳ [[Yearly/Yearly Goals]]
+- 🎸 [[Guitar]]
 ## Favorites
 - 😌 [[Man, I'm lucky]]
 - 🗣️ [[Real talk - interesting conversation questions]]
 ## Other Pages
 > All posts sorted by tags [here](https://heidihuang.com/tags/)
-- 🧬 [[Biology/Biology Stuff]]
-- 🏔️ [[The Impossible List]]
+- [[Biology/Biology Stuff]]
+- [[The Impossible List]]
 

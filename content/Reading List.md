@@ -3,7 +3,7 @@ title: Reading List
 tags:
   - Evergreen
 ---
-A master list of books / novellas / short stories / essays (1) I want to read, (2) am currently reading, (3) or have read in the past. Links are to [long-form blog posts](https://heidihuang.com/books/) / any notes I took / thoughts about the book.
+A master list of texts (1) I'm currently reading (2) or have read in the past. Links are to [long-form blog posts](https://heidihuang.com/books/) / any notes I took / thoughts about the book.
 
 ## Legend
 - `Title` | Author | Rating/5★, optional comment
@@ -17,6 +17,7 @@ A master list of books / novellas / short stories / essays (1) I want to read, (
 - The Code Breaker | Walter Isaacson
 - Homo Deus | Yuval Noah Harrari
 - The Genome Odyssey | Euan Angus Ashley
+- Apprentice to Genius ([pdf](https://gwern.net/doc/science/1986-kanigel-apprenticetogeniusthemakingofascientificdynasty.pdf)) | Robert Kanigel
 
 ## I've Read
 ### 2024 
