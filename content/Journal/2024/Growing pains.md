@@ -3,8 +3,6 @@ title: Growing pains
 tags:
   - Journal-2024
 ---
-![[Images/growing-pains.jpg]]
-
 Six years have swiftly passed since you and VW first met, with you two spending most of that time—more than three years—spanning different continents, separated by a daunting 10+ hour time difference. Catching up with VW recently, you take a moment to look back on how much has changed since high school. 
 
 It's a nostalgic, wistful feeling, acknowledging how much you've both grown. How you've both changed and been changed in ways you never could've seen coming. 

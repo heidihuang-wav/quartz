@@ -14,8 +14,7 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 - 🥸 == favorite fiction book of the year
 
 ## Currently Reading
-- The Code Breaker | Walter Isaacson
-- Homo Deus | Yuval Noah Harrari
+- Leonardo Da Vinci | Walter Isaacson
 - The Genome Odyssey | Euan Angus Ashley
 - Apprentice to Genius ([pdf](https://gwern.net/doc/science/1986-kanigel-apprenticetogeniusthemakingofascientificdynasty.pdf)) | Robert Kanigel
 
@@ -28,6 +27,8 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 4. `The Emperor of All Maladies` | Siddartha Mukherjee | 4★
 5. `Grit` | Angela Duckworth | 3.5★
 6. `Born to Run` | Christopher McDougall | 3.5★
+7. `The Code Breaker` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/list/165868055-heidi-huang) review)
+8. `Homo Deus` | Yuval Noah Harrari | 3★
 
 ### 2023
 > in no particular order
