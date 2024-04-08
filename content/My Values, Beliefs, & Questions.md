@@ -48,7 +48,7 @@ Exude vitality. Never lose that sense of joie de vivre. Remember to *express* yo
 - [Conviction](https://blog.aayushg.com/fake_conviction/) is the scarcest resource, not time.
 - [ayy lmao](https://www.visakanv.com/blog/ayy-lmao/?ref=andrewconner.com)
 ## Parenting 
-I don't have kids. But, if that changes, here are some ideas for what I'd do, based on my own experiences as a kid.
+I don't have kids. If that ever changes, I might do this with them: 
 - The [Hard Thing Rule](https://characterlab.org/character-hub/resources/grit-the-power-of-passion-and-perseverance/) from *Grit* by Angela Duckworth: A **hard thing** is something that requires daily, deliberate practice
 	- Purpose: to encourage grit while allowing the child to choose their own path
 	1. Everyone in the family does a hard thing (including the parents) 
