@@ -7,7 +7,7 @@ tags:
 >[!info] This page provides some insight into my thoughts, likes, and dislikes. If something resonates with you or simply intrigues you, feel free to reach out through the contact form at the bottom of every page on this site. Let’s chat!
 # My Values
 I'd like to be...
-### Intentional
+### Intentional.
 Have clarity in your values and self-defined purpose.
 ### Consistent.
 Sustained intention.

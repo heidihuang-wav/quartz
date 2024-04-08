@@ -5,12 +5,11 @@ tags:
 enableToc: false
 ---
 Cool quotes.
-## Gottfried Ephraim Lessing
-> If God were to hold all Truth concealed in his right hand, and in his left only the steady and diligent drive for Truth, albeit with the proviso that I would always and forever err in the process, and to offer me the choice, I would with all humility take the left hand.
+## Jean-Michel Basquiat
+> Art is how we decorate space, music is how we decorate time.
 
 ## 徐志摩 
 > 得知，我幸；不得，我命
-
 
 ## Stewart Brand
 > Fast learns, slow remembers.  Fast proposes, slow disposes.  Fast is discontinuous, slow is continuous.  Fast and small instructs slow and big by accrued innovation and by occasional revolution.  Slow and big controls small and fast by constraint and constancy.  _Fast gets all our attention, slow has all the power._

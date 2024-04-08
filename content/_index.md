@@ -17,7 +17,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 - 🎯 [[My Values, Beliefs, & Questions]]
 - 📚 [[Reading List]]
 - ⏳ [[Yearly/Yearly Goals]]
-- 🎸 [[Guitar]]
+- 🎸 [[Music]]
 ## Favorites
 - 😌 [[Man, I'm lucky]]
 - 🗣️ [[Real talk - interesting conversation questions]]
