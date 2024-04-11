@@ -72,10 +72,10 @@ I aim to get stronger with progressive overload. I don't have a quantifiable goa
 Resource: https://www.reddit.com/r/nutrition/comments/bb90l0/most_accurate_bmrtdee_calculator/ 
 - Calculate your BMR using an online BMR calculator
 - Calculate your TDEE using the Harrison-Benedict equation (https://www.youtube.com/watch?v=5u4tpODih2s - Will Tennyson's video)
-- For weight loss: eat 300-500 cal fewer than your TDEE
+- For moderate weight loss: eat 300-500 cal fewer than your TDEE
 # Cardio
 ## Tips
-Make cardio fun for *you*. There is a lot of room to do introduce variety to your cardio workouts: swimming, biking, hiking, playing basketball, dancing, etc.
+Make cardio fun for *you*. There is a lot of room to do introduce variety to your cardio workouts: dancing, swimming, biking, hiking, boxing, etc.
 
 If you look hard enough, there will be an activity you enjoy. Find what it is and do it. Find other people who enjoy the same activity and do it together. 
 
@@ -84,15 +84,22 @@ Aim to do at least 120 min of cardio a week.
 - I love playing basketball and hiking. 
 - I have a jump rope (cheap, accessible, you can jump rope anywhere).
 - I used to hate running, but I like it now! The best part about running is that you can do it literally anywhere.
+# Mindset and Motivation
+## On fitness influencers, social media, & celebrities
+ - https://www.youtube.com/watch?v=_xl-TM8gjHI - how social media deceives you
+ - https://www.youtube.com/watch?v=g7K-0UQeRnY 
+Don't compare yourself to what you see on screen because you likely don't know the full story behind how XYZ celebrity got to where they are. 
+## On being a beginner / trying new things
+I used to be terrified of failure. 
 
 # Conclusion
 **Sustainable** fitness (something you'll keep doing for the rest of your life) is about finding a diet and exercises that work for *you* - your schedule, your likes and dislikes, your life.
 
 Are there days in which I feel lazy and slack off? Absolutely. 
 But it's better to be imperfectly consistent than perfectly inconsistent. 
-Don't let a couple of failures throw you off. You're not going to lose all your gains because you stopped working out for a few weeks.
+Don't let a couple of failures throw you off. 
 
-As long as you don't let failing become a habit (useful tip: Matt d'Avella's 2 day rule), you're good.
+As long as you don't let "failing" become a habit (useful tip: Matt d'Avella's 2 day rule), you're good.
 
 
 

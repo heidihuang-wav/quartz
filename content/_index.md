@@ -5,15 +5,15 @@ enableToc: false
 # Howdy, Heidi here 🤠
 > [!tip] Learning in public since 2023.
 
-Welcome to my **thought log**: the place for all my scattered notes and updates.
+Welcome to my **thought log**: the place for all my scattered notes and updates. *Pro-tip*: if you can't see the Table of Contents/Explorer on the left on the home page and the Graph View on the right, zoom out to 90% on your browser.
 
 - [[Thoughts in Passing]]
 ## I'm Writing About...
 - [[Everything I know about fitness & nutrition]]
 - [[Journal/2024/Growing pains]]
-- [[Journal/2023/2023 Learnings|2023 Learnings]]
+- [[Travel Recommendations]]
 ## Evergreen Pages
-- ⚡️ [[Now]]
+- ⚡️ What I'm up to [[Now]]
 - 🎯 [[My Values, Beliefs, & Questions]]
 - 📚 [[Reading List]]
 - ⏳ [[Yearly/Yearly Goals]]
