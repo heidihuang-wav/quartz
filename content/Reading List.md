@@ -28,7 +28,7 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 5. `Grit` | Angela Duckworth | 3.5★
 6. `Born to Run` | Christopher McDougall | 3.5★
 7. `The Code Breaker` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/list/165868055-heidi-huang) review)
-8. `Homo Deus` | Yuval Noah Harrari | 3★
+8. `Homo Deus` | Yuval Noah Harrari | 3.5★
 
 ### 2023
 > in no particular order

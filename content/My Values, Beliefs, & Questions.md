@@ -35,6 +35,8 @@ If you continue down this trajectory, where will you be in X years? Is that wher
 If you never mess around, you'll never [find out](https://twitter.com/rogerskaer/status/1576025818182332416). 
 
 Be open to honest feedback and criticism.
+### Agentic. 
+Have high agency. 
 ### Grateful.
 Exude vitality. Never lose that sense of joie de vivre. Remember to *express* your gratitude.
 

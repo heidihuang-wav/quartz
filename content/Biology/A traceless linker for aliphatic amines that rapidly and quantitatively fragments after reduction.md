@@ -33,7 +33,7 @@ RSLs
 - "PEGylated Cas9 has numerous potential advantages over wild type Cas9, such as lower immunogenicity and improved diffusion through tissue, which is essential for genome editing in a clinical setting" (8976) 
 - Experiment: testing if Cas9-DEC-PEG can efficiently diffuse through striatum after an intracranial injection
 	- Why brain? bc poor diffusion of Cas9 through brain tissue is a key delivery challenge holding back Cas9's clinical potential
-	- Result: "Fig. 3d indicates that Alexa488Cas9–DEC–PEG5k diffused through the striatum signicantly better than its unmodied counterpart (Alexa488- Cas9), and had a volume of distribution (Vd) that was 3.7-fold higher than native Alexa488Cas9 (Table S2†)." (8976)
+	- Result: "Fig. 3d indicates that Alexa488Cas9–DEC–PEG5k diffused through the striatum significantly better than its unmodified counterpart (Alexa488- Cas9), and had a volume of distribution (Vd) that was 3.7-fold higher than native Alexa488Cas9 (Table S2†)." (8976)
 		- Interpretation (of this and other experiments' results not mentioned here): "DEC linker can reversibly modify the Lys residues of proteins (Cas9) and has the stability in biological fluids needed for in vivo applications"
 - Cas9 and CPP
 	- CPPs can be conjugated to Cas9 using DEC linker
@@ -58,10 +58,3 @@ RSLs
 - `cell-penetrating peptide` (CPP): short peptide sequence with the ability to traverse cell membranes and facilitate the entry of various cargo molecules, such as proteins, nucleic acids, or nanoparticles, into cells
 - `homology-directed repair` (HDR): DNA repair mechanism that uses a homologous DNA template to accurately and precisely repair double-strand breaks in the DNA. This process relies on the cell's ability to use an intact, homologous DNA sequence as a template for repair (different than NHEJ)
 - `transfection reagent`: substance or formulation used to introduce foreign genetic material (in this case, to introduce CRISPR machinery) into eukaryotic cells
-
-## Comments
-As a molecular and cell biology major, I do not have a deep understanding of a lot of the chemistry the authors of this paper go into. 
-
-## Questions to ask
-- "Generating HDR in cells with Cas9 reagents is a central challenge in genome editing, and is currently one of the key bottlenecks preventing the translation of Cas9 based therapeutics.35 A crucial challenge in promoting efficient HDR is to deliver sufficient quantities of the Cas9 RNP and donor DNA into cells." (8978) 
-	- My understanding: DSBs induced by CRISPR-Cas9 are repaired by NHEJ (faster, more prevalent, but more error prone, introduces small indels) instead of HDR (more precise but less efficient). So why does delivering sufficient quantities of Cas9 RNP and donor DNA into cells promote efficient HDR? Under what conditions does a cell favor HDR over NHEJ?
