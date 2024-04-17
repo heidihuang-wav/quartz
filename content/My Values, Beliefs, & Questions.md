@@ -5,7 +5,7 @@ tags:
   - Evergreen
 ---
 >[!info] This page provides some insight into my thoughts, likes, and dislikes. If something resonates with you or simply intrigues you, feel free to reach out through the contact form at the bottom of every page on this site. Let’s chat!
-# My Values
+## My Values
 I'd like to be...
 ### Intentional.
 Have clarity in your values and self-defined purpose.
@@ -40,7 +40,7 @@ Have high agency.
 ### Grateful.
 Exude vitality. Never lose that sense of joie de vivre. Remember to *express* your gratitude.
 
-# My Beliefs
+## My Beliefs
 > Strong convictions, loosely held. 
 
 - Is a hot dog a sandwich? No. According to the [Cube Rule of Food Identification](https://cuberule.com/), a hot dog is a taco.
@@ -49,8 +49,8 @@ Exude vitality. Never lose that sense of joie de vivre. Remember to *express* yo
 - Act fast. The benefits of [being impatient](https://www.benkuhn.net/impatient/) compound. 
 - [Conviction](https://blog.aayushg.com/fake_conviction/) is the scarcest resource, not time.
 - [ayy lmao](https://www.visakanv.com/blog/ayy-lmao/?ref=andrewconner.com)
-## Parenting 
-I don't have kids. If that ever changes, I might do this with them: 
+### Parenting 
+I don't have kids. If that ever changes, I'd like to implement these things: 
 - The [Hard Thing Rule](https://characterlab.org/character-hub/resources/grit-the-power-of-passion-and-perseverance/) from *Grit* by Angela Duckworth: A **hard thing** is something that requires daily, deliberate practice
 	- Purpose: to encourage grit while allowing the child to choose their own path
 	1. Everyone in the family does a hard thing (including the parents) 
@@ -58,4 +58,10 @@ I don't have kids. If that ever changes, I might do this with them:
 	3. *You* choose your hard thing based on your interests (no one else chooses it for you)
 
 # My Questions
+### Biology / Biotech
+1. How does the cost and time of drug development compare between approaches that prioritize fundamental, mechanistic understanding of a disease versus approaches that focus on symptomatic treatment?
+2. How does the FDA affect progress and innovation in biotech?
+	- Further reading: interesting article by Scott Alexander, "[Beyond 'Abolish the FDA'](https://www.astralcodexten.com/p/beyond-abolish-the-fda)"
+3. How much can the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) be leveraged counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
+### Miscellaneous
 - [P(doom)](https://www.fastcompany.com/90994526/pdoom-explained-how-to-calculate-your-score-on-ai-apocalypse-metric) = ?
