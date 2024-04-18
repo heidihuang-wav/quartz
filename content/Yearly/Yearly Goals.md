@@ -4,6 +4,12 @@ title: "Yearly Goals"
 > The days are long, but the years are short.
 
 Think of it as New Year's resolutions, but with an extra dose of structure.
+## 2024
+>[!todo] In progress
+
+I've set a goal for myself but will be keeping it private until the end of the year. I've heard mixed things about telling people about your goals—some say letting others know helps let them keep you accountable; others say telling others about your goals prematurely lets you get a dopamine spike without actually having done anything to get closer to your goal. 
+
+I'm not sure what the case is for me, so I'm going to test things out. 
 ## 2023
 > [!check] To read 12 books in 12 months
 

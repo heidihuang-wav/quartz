@@ -61,7 +61,7 @@ I don't have kids. If that ever changes, I'd like to implement these things:
 ### Biology / Biotech
 1. How does the cost and time of drug development compare between approaches that prioritize fundamental, mechanistic understanding of a disease versus approaches that focus on symptomatic treatment?
 2. How does the FDA affect progress and innovation in biotech?
-	- Further reading: interesting article by Scott Alexander, "[Beyond 'Abolish the FDA'](https://www.astralcodexten.com/p/beyond-abolish-the-fda)"
-3. How much can the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) be leveraged counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
+	- Further reading: article by Scott Alexander, [Beyond "Abolish the FDA"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
+3. How can the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) be leveraged counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
 ### Miscellaneous
 - [P(doom)](https://www.fastcompany.com/90994526/pdoom-explained-how-to-calculate-your-score-on-ai-apocalypse-metric) = ?
