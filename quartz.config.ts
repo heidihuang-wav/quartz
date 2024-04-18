@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "heidihuang.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
