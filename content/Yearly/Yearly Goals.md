@@ -9,7 +9,7 @@ Think of it as New Year's resolutions, but with an extra dose of structure.
 
 I've set a goal for myself but will be keeping it private until the end of the year. I've heard mixed things about telling people about your goals—some say telling people lets those people keep you accountable; others say telling people about your goals prematurely gives you a dopamine spike (i.e. you get a reward without actually having done anything to get closer to your goal). 
 
-I'm not sure what the case is for me, so I'm going to test things out. 
+I'm not sure what works for me, so I'm going to test things out. 
 ## 2023
 > [!check] To read 12 books in 12 months
 

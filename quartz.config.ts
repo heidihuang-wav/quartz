@@ -59,7 +59,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
+          light: "github-light",  
           dark: "github-dark",
         },
         keepBackground: false,
