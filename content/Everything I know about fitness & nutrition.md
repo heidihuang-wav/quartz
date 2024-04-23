@@ -7,25 +7,40 @@ An attempt to record everything I know about fitness.
 Disclaimer: I am not a licensed professional (am in the process of getting my NASM-CPT license).
 
 # Weightlifting
-## Best exercises for every body part
+## "Best" exercises for every body part
 By best, I'm considering potential for progressive overload, amount of tension muscle receives in most stretched position, range of motion, effectiveness (as demonstrated by research), and feel (i.e. subjectively, how smooth does the exercise feel?). 
 ### Back
+- **Lat pulldown** variations
+	- **Wide-grip**, **neutral-grip**
+	- **Single-arm half-kneeling** 
+- **Pull ups**
 ### Biceps
+- **Cable curls** 
+	- Provide *constant tension* throughout the movement (whereas dumbbells do not). This means the biceps are under consistent load during both the concentric (lifting) and eccentric (lowering) phases of the exercise. 
+	- The nature of the cable machine helps in maintaining a more *controlled movement*, reducing the likelihood of using momentum to lift.
 ### Chest
 - Any kind of **incline press**, dumbbell or barbell: research ([Chaves et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7449336/)) has shown that the incline bench press activates the upper chest more than the horizontal bench press while targeting other parts of the chest just as well as the horizontal bench press
 - **Chest press machine**. Better at progressive overload than the incline press. Make sure it gives your chest a good stretch at the starting position. 
 ### Triceps
+- **Dips** (including weighted and assisted dips)
+- **Skullcrushers**
 ### Shoulders
+- **Lateral raise machine** 
+### Rear Delts
+- **Reverse fly (machine)**
 ### Quads
 ### Hamstrings
+- **Seated hamstring curls** are preferred over lying hamstring curls because your hamstrings are in a stretched position when seated with your legs stretched out but not when you're lying down.
 ### Glutes
+- **Romanian deadlifts**
+- **Hip thrusts**
 ### Other
 
 ## Tips
-- If you can, train "harder than last time" - Greg Doucette. Not every workout you'll be able to add weight or feel at your best, but push yourself in the gym. 
+- Progressive overload. Not every workout you'll be able to add weight or feel at your best, but push yourself in the gym. 
 - Rest days are necessary. Not taking rest days is not going to give you better results.
 ## My approach
-I aim to get stronger with progressive overload. I don't have a quantifiable goal (hit X weight on Y lift in Z months) because I find it gives me unnecessary pressure. I don't specialize in powerlifting, bodybuilding, or calisthenics. But if I had to pick a category that I lean most towards, it would be bodybuilding. I maingain and don't do bulking / cutting cycles because I want my physique to stay more-or-less the same year-round.
+I aim to get stronger with progressive overload. I don't have a quantifiable goal (hit X weight on Y lift in Z months) because I find it gives me unnecessary pressure. I don't specialize in powerlifting, bodybuilding, or calisthenics. But, if I had to pick a category that I lean most towards, it would be bodybuilding. I maingain and don't do bulking / cutting cycles because I want my physique to stay more-or-less the same year-round.
 ## Resources
 - Jay Cutler - top exercises for each body part ([short video](https://www.youtube.com/shorts/XEWeyt5nyoY))
 - Training frequency 
@@ -90,16 +105,18 @@ Aim to do at least 120 min of cardio a week.
  - https://www.youtube.com/watch?v=g7K-0UQeRnY 
 Don't compare yourself to what you see on screen because you likely don't know the full story behind how XYZ celebrity got to where they are. 
 ## On being a beginner / trying new things
-I used to be terrified of failure. 
-
+I used to be terrified of failure. I still haven't completely gotten over being afraid of looking stupid when trying new things. 
+But, 
 # Conclusion
+Get started today. If you are starting from 0, getting started is the most important thing. Don't overthink things or worry about optimizing your workout and diet. As you keep going, you will make adjustments based on how you feel and how things are going. 
+
 **Sustainable** fitness (something you'll keep doing for the rest of your life) is about finding a diet and exercises that work for *you* - your schedule, your likes and dislikes, your life.
 
 Are there days in which I feel lazy and slack off? Absolutely. 
 But it's better to be imperfectly consistent than perfectly inconsistent. 
-Don't let a couple of failures throw you off. 
+Don't let a couple of failures throw you off.
 
-As long as you don't let "failing" become a habit (useful tip: Matt d'Avella's 2 day rule), you're good.
+
 
 
 
