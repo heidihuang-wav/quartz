@@ -1,7 +1,7 @@
 ---
 title: Everything I know about fitness & nutrition
 ---
-> [!info] this is an unorganized draft
+> [!info] This is an unorganized draft. If you have suggestions on how this page can be improved, please reach out through this [contact form](https://heidihuang.netlify.app/contact).
 
 An attempt to record everything I know about fitness.
 Disclaimer: I am not a licensed professional (am in the process of getting my NASM-CPT license).
