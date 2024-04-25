@@ -11,8 +11,3 @@ Significant projects and discoveries that took 20 years or more to complete. Why
 	- https://paulsteinhardt.org/wp-content/uploads/2020/10/Steinhardt_Rendiconti-Lincei-2012.pdf
 5. Darwin's theory of natural selection (20 years)
 6. Global eradication of smallpox
----
-
-
-
-The opposite of: 

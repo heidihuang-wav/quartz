@@ -90,7 +90,7 @@ Resource: https://www.reddit.com/r/nutrition/comments/bb90l0/most_accurate_bmrtd
 - For moderate weight loss: eat 300-500 cal fewer than your TDEE
 # Cardio
 ## Tips
-Make cardio fun for *you*. There is a lot of room to do introduce variety to your cardio workouts: dancing, swimming, biking, hiking, boxing, etc.
+Make cardio fun for *you*. There is a lot of room to introduce variety to your cardio workouts: dancing, swimming, biking, hiking, boxing, etc.
 
 If you look hard enough, there will be an activity you enjoy. Find what it is and do it. Find other people who enjoy the same activity and do it together. 
 

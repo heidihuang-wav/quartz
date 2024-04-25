@@ -14,7 +14,7 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 - [[Everything I know about fitness & nutrition]]
 - [[Slow]]
 - [[Journal/2024/Growing pains]]
-- 🗺️ [[Travel Recommendations]]
+
 
 ## Evergreen Pages
 - ⚡️ What I'm up to [[Now]]
@@ -22,6 +22,7 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 - 📚 [[Reading List]]
 - ⏳ [[Yearly/Yearly Goals]]
 - 🎸 [[Music]]
+-  🗺️ [[Travel Recommendations]]
 
 ## Favorites
 - [[Man, I'm lucky]]
