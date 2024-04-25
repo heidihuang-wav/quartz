@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3, linkToMore: "tags/components" })),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing", limit: 3, linkToMore: "tags" })),
     Component.DesktopOnly(Component.Explorer())
     
   ],

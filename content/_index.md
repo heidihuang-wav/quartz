@@ -15,7 +15,6 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 - [[Slow]]
 - [[Journal/2024/Growing pains]]
 
-
 ## Evergreen Pages
 - ⚡️ What I'm up to [[Now]]
 - 🎯 [[My Values, Beliefs, & Questions]]
@@ -27,8 +26,3 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 ## Favorites
 - [[Man, I'm lucky]]
 - [[Real talk - interesting conversation questions]]
-## Other Pages
-> All posts sorted by tags [here](https://heidihuang.com/tags/)
-- [[Biology/Biology Stuff]]
-- [[The Impossible List]]
-
