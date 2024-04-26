@@ -1,5 +1,8 @@
 ---
 title: Slow
+tags:
+  - Journal-2024
+  - In-Progress
 ---
 The opposite of Patrick Collison's [Fast](https://patrickcollison.com/fast). 
 
