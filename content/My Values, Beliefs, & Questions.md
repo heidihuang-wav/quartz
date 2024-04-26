@@ -9,6 +9,9 @@ tags:
 I'd like to be...
 ### Intentional.
 Have clarity in your values and self-defined purpose.
+
+Reflect on what you're doing. Why are you doing what you're doing? 
+If you continue down this trajectory, where will you be in X years? Is that where you want to be?
 ### Consistent.
 Sustained intention.
 
@@ -27,10 +30,6 @@ Make things. Have fun.
 > Source: Paul Graham's [essay on earnestness](http://www.paulgraham.com/earnest.html)
 
 Do things for the right reasons and try as hard as you can at doing those things.
-
-### Introspective.
-Reflect on what you're doing. Why are you doing what you're doing? 
-If you continue down this trajectory, where will you be in X years? Is that where you want to be?
 ### Open-minded.
 If you never mess around, you'll never [find out](https://twitter.com/rogerskaer/status/1576025818182332416). 
 
@@ -38,7 +37,7 @@ Be open to honest feedback and criticism.
 ### Agentic. 
 Have high agency. 
 ### Grateful.
-Exude vitality. Never lose that sense of joie de vivre. Remember to *express* your gratitude.
+
 
 ## My Beliefs
 > Strong convictions, loosely held. 
@@ -59,9 +58,13 @@ I don't have kids. If that ever changes, I'd like to implement these things:
 
 # My Questions
 ### Biology / Biotech
-1. How does the cost and time of drug development compare between approaches that prioritize fundamental, mechanistic understanding of a disease versus approaches that focus on symptomatic treatment?
+1. How does the cost and time of drug development compare between approaches that prioritize fundamental, mechanistic understanding of a disease versus approaches that prioritize symptomatic treatment?
 2. How does the FDA affect progress and innovation in biotech?
 	- Further reading: article by Scott Alexander, [Beyond "Abolish the FDA"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
-3. How can the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) be leveraged counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
+3. How can we leverage the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) to  counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
+4. How can we democratize biotechnology / scientific tools so as to, idk, create a biology version of the [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club)?
+	- *[Should](https://www.newyorker.com/magazine/2020/05/25/the-rogue-experimenters)* we? 
+	- [Is Biohacking Ethical?](https://www.vox.com/future-perfect/2019/10/22/20921302/netflix-unnatural-selection-biohacking-crispr-gene-editing) 
 ### Miscellaneous
+- What would a modern version of [The Junto](http://www.benjamin-franklin-history.org/junto-club/) look like? 
 - [P(doom)](https://www.fastcompany.com/90994526/pdoom-explained-how-to-calculate-your-score-on-ai-apocalypse-metric) = ?

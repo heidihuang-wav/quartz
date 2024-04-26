@@ -1,5 +1,6 @@
 ---
 title: Everything I know about fitness & nutrition
+tags: []
 ---
 > [!info] This is an unorganized draft. If you have suggestions on how this page can be improved, please reach out through this [contact form](https://heidihuang.netlify.app/contact).
 
