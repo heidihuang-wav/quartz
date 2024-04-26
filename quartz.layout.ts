@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       "Substack": "https://heidihuang.substack.com/",
       "My Music": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
       "Let's Chat!": "https://heidihuang.netlify.app/contact",
+      "RSS":"https://heidihuang.com/index.xml"
     },
   }),
 }

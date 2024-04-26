@@ -1,8 +1,7 @@
 ---
-title: Home Page
+title: Howdy, Heidi here 🤠
 enableToc: false
 ---
-# Howdy, Heidi here 🤠
 > [!tip] Learning in public since 2023.
 
 Welcome to my **thought log**: the place for all my scattered notes and updates. *Pro-tip*: if you can't see the Table of Contents/Explorer on the left on the home page and the Graph View on the right, zoom out on your browser until you can.
