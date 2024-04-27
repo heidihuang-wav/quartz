@@ -1,5 +1,5 @@
 ---
-title: Howdy, Heidi here 🤠
+title: Heidi's Thought Log 💭
 enableToc: false
 ---
 > [!tip] Learning in public since 2023.
