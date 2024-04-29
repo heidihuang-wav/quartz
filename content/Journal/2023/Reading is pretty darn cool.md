@@ -35,7 +35,7 @@ What *does* matter is this:
 
 Take *The Housekeeper and the Professor,* for example. The short novel tells the heartwarming story of a mathematician with a short-term memory span of only 80 minutes, his bond with his dedicated housekeeper and her son, and the power of their relationship to transcend the limitations of memory.
 
-Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* The sight of the square root sign will now elicit a smile, thanks to the professor's portrayal of it as a generous symbol, a welcoming house for all numbers. Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son to think for himself and not be afraid to be wrong was inspiring and resonated with my inner child.
+Math has never been my favorite subject, but I enjoyed feeling the professor's genuine enthusiasm for numbers, patterns, and the beauty of mathematical relationships through the pages of *The Housekeeper and the Professor.* Mathematical thinking doesn't have to be confined to academia. It can be a lens through which to view the world in all its intricate glory. The way the professor encouraged the housekeeper's son to think for himself and not be afraid to be wrong was inspiring and resonated with my inner child.
 
 Books are also a compelling media form for these reasons:
 - **Depth of information**: when I think about the amount of information and possibly decades of expertise authors distill into several hours of reading, I find books to be such a steal.
@@ -49,9 +49,6 @@ Books are also a compelling media form for these reasons:
 		> 	—Neil Gaiman ([source](https://www.theguardian.com/books/2013/oct/24/neil-gaiman-face-facts-need-fiction))
 	- **Interpretation**: When we engage with a text on a personal level, we become active participants in the storytelling process. I love hearing what other folks have to say about the same book I read.
 - **Improved Writing Skills**
-
-Update (3/18/2024) 
-- Observing what you're reading is a good way to tell what you're truly interested in
 
 ## Annual Personal Goal-Setting
 
