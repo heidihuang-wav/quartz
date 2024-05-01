@@ -11,9 +11,8 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 - [[Thoughts in Passing]]
 ## I'm Writing About...
 - [[Everything I know about fitness & nutrition]]
-- [[Slow]]
-- [[Journal/2024/Growing pains]]
-
+- [[Journal/2024/Slow]]
+- [[Journal/2024/Notes from Jensen Huang x Patrick Collison Fireside Chat]]
 ## Evergreen Pages
 - ⚡️ What I'm up to [[Now]]
 - 🎯 [[My Values, Beliefs, & Questions]]
