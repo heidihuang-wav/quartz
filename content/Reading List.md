@@ -31,6 +31,7 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 8. `Homo Deus` | Yuval Noah Harrari | 3.5★
 9. `Leonardo Da Vinci` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6403014100?book_show_action=false) review) 
 10. `Endure` | Alex Hutchinson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6354090809) review)
+11. [[Books/Supercommunicators|Supercommunicators]] | Charles Duhigg | 3.5★
 
 ### 2023
 > in no particular order
