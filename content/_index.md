@@ -9,7 +9,7 @@ Welcome to my **thought log**: the place for all my scattered notes and updates.
 If you'd like to say hi and/or meet up, the best way to reach me is through this [contact form](https://heidihuang.netlify.app/contact). You can find the contact form at the bottom of every page, accessible through the hyperlink labeled 'Let's Chat!'
 
 - [[Thoughts in Passing]]
-- All posts sorted by tags
+- [All posts](https://heidihuang.com/tags/) sorted by tags
 ## I'm Writing About...
 - [[Everything I know about fitness & nutrition]]
 - [[Books/Supercommunicators|Supercommunicators]]
