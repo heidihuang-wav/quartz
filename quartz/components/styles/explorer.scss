@@ -36,8 +36,6 @@ button#explorer {
 
 .folder-outer.open {
   grid-template-rows: 1fr;
-  max-height: 300px;
-  overflow-y: auto;
 }
 
 .folder-outer > ul {
@@ -47,7 +45,7 @@ button#explorer {
 #explorer-content {
   list-style: none;
   overflow: hidden;
-  max-height: none;
+  max-height: 225px;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
 
