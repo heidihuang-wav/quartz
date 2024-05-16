@@ -14,7 +14,7 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 - 🥸 == favorite fiction book of the year
 
 ## Currently Reading
-- Leonardo Da Vinci | Walter Isaacson
+- The Double Helix | James D. Watson
 - The Genome Odyssey | Euan Angus Ashley
 - Apprentice to Genius ([pdf](https://gwern.net/doc/science/1986-kanigel-apprenticetogeniusthemakingofascientificdynasty.pdf)) | Robert Kanigel
 
@@ -29,6 +29,8 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 6. `Born to Run` | Christopher McDougall | 3.5★
 7. `The Code Breaker` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/list/165868055-heidi-huang) review)
 8. `Homo Deus` | Yuval Noah Harrari | 3.5★
+9. `Leonardo Da Vinci` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6403014100?book_show_action=false) review) 
+10. `Endure` | Alex Hutchinson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6354090809) review)
 
 ### 2023
 > in no particular order
