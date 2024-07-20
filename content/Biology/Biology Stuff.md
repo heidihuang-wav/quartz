@@ -9,8 +9,6 @@ tags:
 3. Engineering precision nanoparticles for drug delivery
 4. [[Biology/A traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction|A traceless linker for aliphatic amines that rapidly and quantitatively fragments after reduction]]
 5. [[PDFs/A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity|A programmable dual RNA-guided DNA endonuclease in adaptive bacterial immunity]]
-6. [[Biology/Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage]] - base editing
-7. [[Biology/Search-and-replace genome editing without double-strand breaks or donor DNA]] - prime editing
 ## Books
 ### I'm reading / want to read
 - The Double Helix | James Watson

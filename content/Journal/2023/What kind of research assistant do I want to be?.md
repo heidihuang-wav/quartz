@@ -9,7 +9,7 @@ I will...
 3. Take thorough notes. Be like Patrick.
 	![[Images/SpongeBob.gif]]
 4. Ask questions if I don't understand something. 
-5. Understand *why* things are being done. Context 📈. 
-6. Read cool papers. Ask for recommendations.
+5. Understand *why* things are being done.
+6. Read papers. Ask for recommendations.
 7. I will make mistakes. Own up to them and learn from them. Try not to make the same mistake twice.
 8. Have fun.

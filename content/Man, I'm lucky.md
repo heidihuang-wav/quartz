@@ -1,7 +1,8 @@
 ---
 title: Man, I'm lucky
-tags:
+tags: []
 ---
+Moments I've felt really lucky :) 
 ### 2023-09-28
 - For being in the Bay Area, being at UC Berkeley, getting to work with and learn from people I look up to and [meet more of them](https://innovativegenomics.org/inside-igi-health/) in person! (a;lskdjfal;ksdjf 🤯)
 - For cool conference swag

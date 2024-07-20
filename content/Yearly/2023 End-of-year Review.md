@@ -8,7 +8,7 @@ My goal was to read 12 books in 12 months. According to my [[Reading List]] and 
 
 ## What went well? 
 ### The How
-Most of my books are consumed in audiobook format. As I've emphasized in [[Journal/2023/Reading is pretty darn cool|Reading is pretty darn cool]], listening to audiobooks while I run errands and cook has been a game-changer, 4x'ing the volume of books I can consume.
+Most of my books are consumed in audiobook format. As I've emphasized in [[Journal/2023/Reading is pretty cool|Reading is pretty cool]], listening to audiobooks while I run errands and cook has been a game-changer, 4x'ing the volume of books I can consume.
 
 For books I wanted to pay special attention to (e.g. *The Gene*) because I am *especially* interested in the subject matter and/or books that have many charts and graphs, I opted to read them in their physical form. 
 ### The What

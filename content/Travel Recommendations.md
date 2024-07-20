@@ -6,15 +6,21 @@ tags:
 ---
 ## North America
 ### USA
-#### West Coast (best coast)
+#### West Coast (best coast) 
 - Berkeley, CA
 	- Things to do / Places to visit
 		- axe throwing @ AxeVentures
-		- rock-climbing @ Mosaic Boulders 
+		- rock climbing @ Mosaic Boulders 
 	- Food
 		- The Cheeseboard Collective (pizza + bakery)
 		- Noodle Dynasty
 		- Seoul Hotdog (Korean corn dog)
+		- Boichik Bagels
+	- Nature
+		- Tilden Regional Park
+			- Grizzly Peak
+		- Fire trails
+		- Big C hike (short, ~20 min but steep ascent)
 - San Francisco, CA
 	- Things to do / Places to visit
 		- California Academy of Sciences

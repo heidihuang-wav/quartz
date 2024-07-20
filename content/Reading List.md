@@ -14,8 +14,8 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 - 🥸 == favorite fiction book of the year
 
 ## Currently Reading
+- Breaking Through | Katalin Karikó
 - The Double Helix | James D. Watson
-- The Genome Odyssey | Euan Angus Ashley
 - Apprentice to Genius ([pdf](https://gwern.net/doc/science/1986-kanigel-apprenticetogeniusthemakingofascientificdynasty.pdf)) | Robert Kanigel
 
 ## I've Read
@@ -32,6 +32,10 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 9. `Leonardo Da Vinci` | Walter Isaacson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6403014100?book_show_action=false) review) 
 10. `Endure` | Alex Hutchinson | 5★ (my [Goodreads](https://www.goodreads.com/review/show/6354090809) review)
 11. [[Books/Supercommunicators|Supercommunicators]] | Charles Duhigg | 3.5★
+12. `Systems Thinking` | Donella H. Meadows | 4★
+13. `Complications` | Atul Gawande | 4★
+14. `The Culture Map` | Erin Meyer | 5★
+15. `Elon Musk` | Walter Isaacson | 4★
 
 ### 2023
 > in no particular order
@@ -98,3 +102,6 @@ A master list of texts (1) I'm currently reading (2) or have read in the past. L
 - `Fahrenheit 451` | Ray Bradbury
 - `基督山恩仇記 (abridged)` | Alexandre Dumas
 
+## Abandoned
+- The Genome Odyssey | Euan Angus Ashley
+- `The Creative Act` | Rick Rubin

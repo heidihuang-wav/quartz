@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Substack": "https://heidihuang.substack.com/",
       "My Music": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
-      "Let's Chat!": "https://heidihuang.netlify.app/contact",
+      "Let's Chat!": "https://heidihuang.xyz/contact",
       "RSS":"https://heidihuang.com/index.xml"
     },
   }),

@@ -2,7 +2,7 @@
 title: Everything I know about fitness & nutrition
 tags: []
 ---
-> [!info] This is an unorganized draft. If you have suggestions on how I can improve this page, please reach out through this [contact form](https://heidihuang.netlify.app/contact).
+> [!info]  I will be reorganizing this whole page soon. I feel it's too convoluted, and I want to make it more straightforward, clear, and concise for folks looking to get started with weight training and cardio. I'll move the more exercise science-y / detailed stuff elsewhere, so starting doesn't feel as overwhelming and confusing. 
 
 An attempt to record everything I know about fitness.
 Disclaimer: I am not a licensed professional (am in the process of getting my NASM-CPT license). This is not medical advice. 

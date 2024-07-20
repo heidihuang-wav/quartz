@@ -9,11 +9,11 @@ As my postdoc / mentor likes to say,
 ## Tips
 - Before each use
 	- Make sure sash is at the correct height 
-	- Wipe down hood thoroughly with booze (70% ethanol) before starting and after each use
+	- Wipe down hood thoroughly with 70% ethanol before starting and after each use
 - Sterile handling
-	- Spray down *everything* that goes into the hood with booze, including 
+	- Spray down *everything* that goes into the hood with 70% ethanol, including 
 		- First time putting your hands and arms into the hood: spray your gloved hands + a little bit up your sleeve
-		- Every time your hands exit the hood, spray them with booze again before putting them back into the hood
+		- Every time your hands exit the hood, spray them with 70% ethanol again before putting them back into the hood
 	- Switch Pasteur pipette tips at at least between different cell types
 	- Apparently a controversial statement, but keep lids and caps facing up 
 	- Avoid sucking up media into serological pipette gun 
@@ -24,5 +24,8 @@ As my postdoc / mentor likes to say,
 	- Try not to pass hands, bottles, pipettes, tubes etc. over any open and uncovered media bottles, uncovered plates, and opened tips
 - After each use
 	- UV 
-	- Wipe everything down with booze
-	- Vacuum tube: spray with bleach + booze
+	- Wipe everything down with 70% ethanol
+	- Vacuum tube: spray with bleach + 70% ethanol
+
+
+A week after my first attempt at passaging cells, I came back to them and found them contaminated, so I wrote this to remind myself of some tips to help maintain a sterile environment. 
