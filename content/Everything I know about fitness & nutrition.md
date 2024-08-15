@@ -2,7 +2,7 @@
 title: Everything I know about fitness & nutrition
 tags: []
 ---
-> [!info]  I will be reorganizing this whole page soon. I feel it's too convoluted, and I want to make it more straightforward, clear, and concise for folks looking to get started with weight training and cardio. I'll move the more exercise science-y / detailed stuff elsewhere, so starting doesn't feel as overwhelming and confusing. 
+> [!info] This page is a draft. I will also be reorganizing this whole page soon. I feel it's too convoluted, and I want to make it more straightforward, clear, and concise for folks looking to get started with weight training and cardio. I'll move the more exercise science-y / detailed stuff elsewhere, so starting doesn't feel as overwhelming and confusing. 
 
 An attempt to record everything I know about fitness.
 Disclaimer: I am not a licensed professional (am in the process of getting my NASM-CPT license). This is not medical advice. 
@@ -108,7 +108,7 @@ Make cardio fun for *you*. There is a lot of room to introduce variety to your c
 
 If you look hard enough, there will be an activity you enjoy. Find what it is and do it. Find other people who enjoy the same activity and do it together. 
 
-Aim to do at least 120 min of cardio a week. [Research](https://bjsm.bmj.com/content/57/22/1457.citation-tools?utm_source=arnoldspumpclub.schwarzenegger.com&utm_medium=newsletter&utm_campaign=how-to-undo-the-damage-of-sitting) suggests around 22 minutes of "moderate-to-vigorous physical activity" can mitigate the health risks of being mostly inactive. 
+Aim to do at least 120 min of cardio a week. [Research](https://bjsm.bmj.com/content/57/22/1457.citation-tools?utm_source=arnoldspumpclub.schwarzenegger.com&utm_medium=newsletter&utm_campaign=how-to-undo-the-damage-of-sitting) suggests around 22 minutes of "moderate-to-vigorous physical activity" per day can mitigate the health risks of being mostly inactive. 
 ### My approach
 - I love playing basketball and hiking. 
 - I have a jump rope (cheap, accessible, you can jump rope anywhere).
