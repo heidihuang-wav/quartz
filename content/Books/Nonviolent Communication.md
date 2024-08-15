@@ -48,9 +48,9 @@ We also often make unfair generalizations when using words like "always" and "ne
 
 ⚡ Resources to learn more about your emotions:
 
--   Plutchik's [wheel of emotions](https://en.wikipedia.org/wiki/Robert_Plutchik?ref=heidi-huang.ghost.io)
--   List of [135 "feeling words"](https://www.centervention.com/list-of-emotions-135-words-that-express-feelings/?ref=heidi-huang.ghost.io)
--   Susan David's Ted Talk on [The Gift and Power of Emotional Courage](https://www.youtube.com/watch?v=NDQ1Mi5I4rg&ref=heidi-huang.ghost.io)
+-   Plutchik's [wheel of emotions](https://en.wikipedia.org/wiki/Robert_Plutchik)
+-   List of [135 "feeling words"](https://www.centervention.com/list-of-emotions-135-words-that-express-feelings/)
+-   Susan David's Ted Talk on [The Gift and Power of Emotional Courage](https://www.youtube.com/watch?v=NDQ1Mi5I4rg&)
 
 ### Taking Responsibility for Our Feelings
 
@@ -130,7 +130,7 @@ Realizing I can control how I react to stimuli has been helpful and I hope will 
 
 🎯 NVC has also helped me **_be_** **_more in touch with my needs_**. By identifying my needs, I can also understand what makes me fulfilled and what I **value**.
 
-🩺 Another useful lesson is _**developing empathy**_ for others. I'm a [pre-health student at UC Berkeley](https://heidi-huang.ghost.io/about/) and am grateful to have the opportunity to intern at UCSF and interact with patients weekly. Part of my job as an intern is proactively calling cancer patients to screen for sources of distress (e.g. transportation barriers, difficulty with sleep, spiritual/religious issues).
+🩺 Another useful lesson is _**developing empathy**_ for others. I'm a pre-health student at UC Berkeley and am grateful to have the opportunity to intern at UCSF and interact with patients weekly. Part of my job as an intern is proactively calling cancer patients to screen for sources of distress (e.g. transportation barriers, difficulty with sleep, spiritual/religious issues).
 
 Instead of imposing a rigid phone script onto every patient, I adopt a more flexible approach and go off-script, skip around, and omit a few questions if needed. Each patient's experience with cancer is unique, and their emotional state can fluctuate from one conversation to the next. Rather than mechanically going through a checklist of questions, my priority is to create a supportive and understanding environment for each patient.
 

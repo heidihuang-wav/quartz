@@ -4,6 +4,8 @@ tags:
   - Journal-2024
   - In-Progress
 ---
+> [!info] idk still toying around with this idea, might delete this note
+
 The opposite of Patrick Collison's [Fast](https://patrickcollison.com/fast). 
 
 Significant projects and discoveries that took 20 years or more to complete. Why did they take so long? If things were done differently, could we have sped up the process? 

@@ -56,14 +56,16 @@ I don't have kids. If that ever changes, I'd like to implement these things:
 	2. No quitting the hard thing in the middle (you can quit at a natural stopping point, but no quitting after a bad day)
 	3. *You* choose your hard thing based on your interests (no one else chooses it for you)
 
-# My Questions
+# My Questions 
+
+Some things I think about
 ### Biology / Biotech
 1. How does the cost and time of drug development compare between approaches that prioritize fundamental, mechanistic understanding of a disease versus approaches that prioritize symptomatic treatment?
 2. How does the FDA affect progress and innovation in biotech?
 	- Further reading: article by Scott Alexander, [Beyond "Abolish the FDA"](https://www.astralcodexten.com/p/beyond-abolish-the-fda)
 3. How can we leverage the products of [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law#:~:text=Advancements%20in%20digital%20electronics%2C%20such,strongly%20linked%20to%20Moore's%20law.) (advancements in AI/ML) to  counteract the effects of [Eroom's Law](https://en.wikipedia.org/wiki/Eroom%27s_law#:~:text=Eroom's%20law%20is%20the%20observation,first%20observed%20in%20the%201980s.)?
-4. How can we democratize biotechnology / scientific tools so as to, idk, create a biology version of the [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club)?
-	- *[Should](https://www.newyorker.com/magazine/2020/05/25/the-rogue-experimenters)* we? 
+4. How can we democratize biotechnology / scientific tools to create a biology version of the [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club)?
+	- *[should](https://www.newyorker.com/magazine/2020/05/25/the-rogue-experimenters)* we? 
 	- [Is Biohacking Ethical?](https://www.vox.com/future-perfect/2019/10/22/20921302/netflix-unnatural-selection-biohacking-crispr-gene-editing) 
 ### Miscellaneous
 - What would a modern version of [The Junto](http://www.benjamin-franklin-history.org/junto-club/) look like? 

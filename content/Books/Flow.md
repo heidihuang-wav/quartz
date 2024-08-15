@@ -3,7 +3,6 @@ title: Flow
 tags:
   - Book
 ---
-> [!info] [Link](https://heidi-huang.ghost.io/flow-the-psychology-of-optimal-experience/) to my blog post
 
 ### My Thoughts on _Flow_ (Overall)
 - Cool blend of science (biology, psychology, etc.) and philosophy
