@@ -1,10 +1,10 @@
 ---
-title: Howdy, Heidi here 🤠
+title: Heidi Huang 🤠
 enableToc: false
 ---
 > [!tip] Learning in public since 2023.
 
-Welcome to my **thought log**: the place for all my scattered notes and updates. 
+Howdy, Heidi here. Welcome to my **notebook**: the place for my scattered thoughts and updates. 
 
 *Pro-tip*: if you're on desktop and can't see the Table of Contents/Explorer on the left on the home page and the Graph View on the right, ==zoom out== on your browser until you can.
 
