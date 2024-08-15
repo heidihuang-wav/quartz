@@ -5,7 +5,7 @@ tags:
 ---
 Pull up a [random number generator](https://www.random.org/) and ask away! 
 
-Remember to create a safe, non-judgmental space for everyone participating. If you'd like to add to the list, feel free to [contact me](https://heidihuang.netlify.app/contact.html) with suggestions for questions. 
+Remember to create a safe, non-judgmental space for everyone participating. If you'd like to add to the list, feel free to [contact me](https://heidihuang.xyz/contact.html) with suggestions for questions. 
 
 1. What does a perfect day look like to you?
 2. What’s the best compliment you’ve ever received?

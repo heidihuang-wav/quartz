@@ -264,6 +264,3 @@ ___
 4.  Impact of Empire: Empires facilitated the spread of ideas, technology, and culture, but they also perpetuated inequality and often led to the exploitation and suffering of marginalized populations.
 5.  Future Challenges: Harari raises thought-provoking questions about the future of humanity, including the potential impact of technological advancements such as artificial intelligence and genetic engineering. These advancements raise ethical dilemmas and have the potential to reshape our societies and even the very nature of what it means to be human.
 
-___
-
-### 📬 Let's connect! Shoot me a message [here](https://heidihuang.netlify.app/contact) :)
