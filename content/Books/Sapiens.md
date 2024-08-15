@@ -2,6 +2,7 @@
 title: Sapiens
 tags:
   - Book
+date:
 ---
 # At a Glance
 -   Rating: ★★★☆☆ thought-provoking read, but kinda overrated (skip to [[Books/Sapiens#my thoughts|my thoughts]] to find out why)

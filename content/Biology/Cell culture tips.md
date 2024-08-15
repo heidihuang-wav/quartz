@@ -6,6 +6,7 @@ tags:
 As my postdoc / mentor likes to say, 
 > Trust no one. (only applies to cell culture, not to life in general)
 
+A week after my first attempt at passaging cells, I came back to them and found them contaminated, so I wrote this to remind myself of some tips to help maintain a sterile environment. 
 ## Tips
 - Before each use
 	- Make sure sash is at the correct height 
@@ -28,4 +29,3 @@ As my postdoc / mentor likes to say,
 	- Vacuum tube: spray with bleach + 70% ethanol
 
 
-A week after my first attempt at passaging cells, I came back to them and found them contaminated, so I wrote this to remind myself of some tips to help maintain a sterile environment. 

@@ -1,6 +1,6 @@
 ---
 title: Everything I know about fitness & nutrition
-tags: []
+tags:
 ---
 > [!info] This page is a draft. I will also be reorganizing this whole page soon. I feel it's too convoluted, and I want to make it more straightforward, clear, and concise for folks looking to get started with weight training and cardio. I'll move the more exercise science-y / detailed stuff elsewhere, so starting doesn't feel as overwhelming and confusing. 
 
