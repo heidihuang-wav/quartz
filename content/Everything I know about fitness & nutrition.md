@@ -51,7 +51,7 @@ By "best," I'm considering potential for progressive overload, amount of tension
 - Progressive overload. Not every workout you'll be able to add weight or feel at your best, but push yourself in the gym. 
 - Rest days are necessary. Not taking rest days is not going to give you better results.
 ### My approach
-I aim to get stronger with progressive overload. I don't have a quantifiable goal (hit X weight on Y lift in Z months) because I find it gives me unnecessary pressure. I lean most toward bodybuilding but don't really specialize in powerlifting, bodybuilding, or calisthenics. I maingain and don't do bulking / cutting cycles because I want my physique to stay more-or-less the same year-round.
+I aim to get stronger with progressive overload. I don't have a quantifiable goal (hit X weight on Y lift in Z months) because I find it gives me unnecessary pressure. I lean most toward bodybuilding but don't really specialize in powerlifting, bodybuilding, or calisthenics. I maingain or do mini cuts/bulks but don't do drastic dirty bulking / cutting cycles because I want my physique to stay more-or-less the same year-round.
 ### Resources
 - Jay Cutler - top exercises for each body part ([short video](https://www.youtube.com/shorts/XEWeyt5nyoY))
 - Training frequency 
