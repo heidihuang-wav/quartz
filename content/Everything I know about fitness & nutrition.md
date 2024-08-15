@@ -31,8 +31,7 @@ By "best," I'm considering potential for progressive overload, amount of tension
 - Any kind of **incline press**, dumbbell or barbell: research ([Chaves et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7449336/)) has shown that the incline bench press activates the upper chest more than the horizontal bench press while targeting other parts of the chest just as well as the horizontal bench press
 - **Chest press machine**. Better at progressive overload than the incline press. Make sure it gives your chest a good stretch at the starting position. 
 #### Triceps
-- **Dips** (both weighted and assisted dips)
-	- 
+- **Dips** (weighted or assisted dips)
 - **Skullcrushers**
 #### Shoulders
 - **Lateral raise machine** 
