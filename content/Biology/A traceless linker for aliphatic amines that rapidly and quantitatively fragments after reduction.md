@@ -4,7 +4,7 @@ tags:
   - Biology
   - Paper
 ---
-[Link](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00929f) to paper. Quotes and relevant (to me; this is not a comprehensive overview of the paper) below, loosely structured.
+visual[Link](https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc00929f) to paper. Quotes and relevant (to me; this is not a comprehensive overview of the paper) below, loosely structured.
 
 ---
 ## Notes
@@ -20,7 +20,7 @@ RSLs
 		- Advantage (why Lys is an appealing target for conjugating adjuvants to proteins): Lys commonly found on proteins, easily modifiable under mild aqueous conditions due to high nucleophilicity
 		- Bad (challenges in modification): Lys crucial for protein activity, so extensiv e modification tends to compromise protein function
 	- Where RSLs come in: RSLs offer *reversible* Lys modification, so promising strategy for effective protein delivery
-- 2 major classes of RSLs developed to modify `aliphatic` amines, but no widespread applications for protein delivery bc of their "slow `self-immolation` rates or incomplete release" (8973-8974)
+- 2 major classes of RSLs developed to modify aliphatic amines, but no widespread applications for protein delivery bc of their "slow `self-immolation` rates or incomplete release" (8973-8974)
 	- Thus, there is a need for new "amine-modifying RSLs that can modify the Lys residues of proteins in a traceless manner" 
 ### DEC: a traceless self-immolative linker
 - DEC := dithiol-ethyl carbonate linker connected to a benzyl carbamate linker
@@ -54,7 +54,6 @@ RSLs
 ## Glossary
 - `reduction sensitive linker` (RSL): a chemical linkage or bond within a molecule that is designed to be sensitive to reduction reactions 
 - `self-immolation`: spontaneous breaking or cleaving of a particular chemical bond in a molecule
-- `aliphatic`: non-aromatic
 - `cell-penetrating peptide` (CPP): short peptide sequence with the ability to traverse cell membranes and facilitate the entry of various cargo molecules, such as proteins, nucleic acids, or nanoparticles, into cells
 - `homology-directed repair` (HDR): DNA repair mechanism that uses a homologous DNA template to accurately and precisely repair double-strand breaks in the DNA. This process relies on the cell's ability to use an intact, homologous DNA sequence as a template for repair (different than NHEJ)
 - `transfection reagent`: substance or formulation used to introduce foreign genetic material (in this case, to introduce CRISPR machinery) into eukaryotic cells
