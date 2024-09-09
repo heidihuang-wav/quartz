@@ -23,7 +23,7 @@ tags:
 - Being [nerd sniped](https://xkcd.com/356/) by [cool stuff](https://curius.app/heidi-huang) on the internet
 - Learning mainly Portuguese + some Cantonese on Duolingo 
 ## Work stuff
-[heidihuang.xyz](https://heidihuang.xyz/)
+[heidihuang.com](https://heidihuang.com/)
 - Undergrad majoring in Molecular and Cell [[Biology/Biology Stuff|Biology]] @ UC Berkeley
 - [[Journal/2023/What kind of research assistant do I want to be?|Research assistant]] @ the Innovative Genomics Institute
 - Patient scribe @ UCSF (Transplant Nephrology)

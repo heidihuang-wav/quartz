@@ -86,7 +86,7 @@ I aim to get stronger with progressive overload. I don't have a quantifiable goa
 		- BW x 7
 ### Tracking your nutrition
 #### My approach
-- I use a spreadsheet to track my daily calorie and protein intake. If you're curious what the spreadsheet looks like and/or would like a copy of it, feel free to [reach out](https://heidihuang.xyz/contact)!
+- I use a spreadsheet to track my daily calorie and protein intake. If you're curious what the spreadsheet looks like and/or would like a copy of it, feel free to [reach out](https://heidihuang.com/contact)!
 - I do not track any of my other macros
 #### Calorie tracking apps
 - MyFitnessPal 

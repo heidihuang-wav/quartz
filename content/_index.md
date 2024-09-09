@@ -8,7 +8,7 @@ Howdy, Heidi here. Welcome to my **notebook**: the place for my scattered though
 
 *Pro-tip*: if you're on desktop and can't see the Table of Contents/Explorer on the left on the home page and the Graph View on the right, ==zoom out== on your browser until you can.
 
-If you'd like to say hi and/or meet up, the best way to reach me is through this [contact form](https://heidihuang.xyz/contact). You can find the contact form at the bottom of every page, accessible through the hyperlink labeled 'Let's Chat!'
+If you'd like to say hi and/or meet up, the best way to reach me is through this [contact form](https://heidihuang.com/contact). You can find the contact form at the bottom of every page, accessible through the hyperlink labeled 'Let's Chat!'
 
 - [[Thoughts in Passing]]
 - [All posts](https://heidihuang.com/tags/) sorted by tags

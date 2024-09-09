@@ -12,7 +12,7 @@ Moments I've felt really lucky :)
 - For being in the Bay Area (see PG's [Cities and Ambition](https://paulgraham.com/cities.html)), being at UC Berkeley, getting to work with and learn from people I look up to and [meet more of them](https://innovativegenomics.org/inside-igi-health/) in person! (a;lskdjfal;ksdjf 🤯)
 - For cool conference swag lol
 ### 2023-09-21
-- For cool people, as curious as they are kind, who aren't afraid to [reach out](https://heidihuang.xyz/contact) :) 
+- For cool people, as curious as they are kind, who aren't afraid to [reach out](https://heidihuang.com/contact) :) 
 	- I realized showcasing and documenting my thoughts and what I'm doing is just as important as getting out there and doing things, so I [[Journal/2023/Birth of this Microblog|started writing]] on this website in July 2023 to [[Journal/2023/Serendipity, file management|increase my surface area for serendipity]]. Thank you, JT, for being the first person to check out my writing and reaching out to meet up.
 ### 2023-09-05 
 - For California's *accessible* natural beauty (hike @ Lower Fire Trails, right next to campus). Went in between classes on a Tuesday afternoon.<br>

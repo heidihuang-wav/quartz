@@ -14,4 +14,4 @@ For random thoughts that do not warrant standalone pages.
 - Recent shows I've been watching
 	- The Bear: first two seasons are [phenomenal](https://www.youtube.com/watch?v=kMGog1cU8BY&t=488s)
 	- Bojack Horseman (rewatch)
-- I want to reconcile my 2 domains: [heidihuang.xyz](https://heidihuang.xyz) and this one. Maybe get rid of one and get a subdomain instead
+- ~~I want to reconcile my 2 domains: [heidihuang.xyz](https://heidihuang.xyz) and this one. Maybe get rid of one and get a subdomain instead~~ Done! Created subdomain [notebook.heidihuang.com](https://notebook.heidihuang.com) for my Notebook and am using[ heidihuang.com](https://heidihuang.com) for my main/professional page.
