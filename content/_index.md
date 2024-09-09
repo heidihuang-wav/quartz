@@ -13,7 +13,7 @@ If you'd like to say hi and/or meet up, the best way to reach me is through this
 - [[Thoughts in Passing]]
 - [All posts](https://heidihuang.com/tags/) sorted by tags
 ## I'm Writing About...
-- [[2024-08 Things I found useful and interesting]]
+- [[Journal/2024/2024-08 Things I found useful and interesting]]
 - [[Everything I know about fitness & nutrition]]
 - [[Books/Supercommunicators|Supercommunicators]]
 - [[Journal/2024/Notes from Jensen Huang x Patrick Collison Fireside Chat]]
