@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Substack": "https://heidihuang.substack.com/",
+      "heidihuang.com":"https://heidihuang.com"
       "My Music": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
       "Let's Chat!": "https://heidihuang.com/contact",
       "RSS":"https://heidihuang.com/index.xml"
