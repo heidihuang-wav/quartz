@@ -65,3 +65,6 @@ On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.c
 ![[Images/B2B.jpeg]]
 
 - More races to come next year!
+
+*** 
+Thanks to Alexey Guzey, Tiago Flora for reviewing drafts of this post.
