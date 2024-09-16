@@ -29,9 +29,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates && fileData.dates.created) {
+     /* if (fileData.dates && fileData.dates.created) {
         segments.push(`Created on: ${formatDate(fileData.dates.created, cfg.locale)}`);
-      }
+      } */ 
+     //this doesn't work :(
 
       if (fileData.dates) {
         segments.push(`Last updated: ${formatDate(getDate(cfg, fileData)!, cfg.locale)}`)
