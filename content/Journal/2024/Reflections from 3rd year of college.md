@@ -2,6 +2,7 @@
 title: Reflections from 3rd year of college
 tags:
   - Journal-2024
+createdDate: 2024-09-13
 ---
 After three years of college, Berkeley feels like home to me.
 

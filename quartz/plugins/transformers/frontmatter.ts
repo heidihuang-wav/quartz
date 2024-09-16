@@ -73,6 +73,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
+            
           }
         },
       ]

@@ -95,5 +95,6 @@ declare module "vfile" {
       modified: Date
       published: Date
     }
+    created: Date; // Add this line
   }
 }

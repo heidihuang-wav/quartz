@@ -11,7 +11,7 @@ Howdy, Heidi here. Welcome to my **notebook**: the place for my scattered though
 If you'd like to say hi and/or meet up, the best way to reach me is through this [contact form](https://heidihuang.com/contact). You can find the contact form at the bottom of every page, accessible through the hyperlink labeled 'Let's Chat!'
 
 - [[Thoughts in Passing]]
-- [All posts](https://heidihuang.com/tags/) sorted by tags
+- [All posts](https://notebook.heidihuang.com/tags/) sorted by tags
 ## I'm Writing About...
 - [[Journal/2024/Reflections from 3rd year of college|Reflections from 3rd year of college]]
 - [[Journal/2024/2024-08 Things I found useful and interesting]]
