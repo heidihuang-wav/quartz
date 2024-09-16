@@ -10,7 +10,7 @@ I’ve learned when to avoid the gym during peak hours, what to expect in the fi
 
 Out of all three years so far, I’ve grown the most in my junior year. Here’s how it went and what I learned along the way: 
 ### Dropping the Public Health major
-At the beginning of Fall semester of junior year, I was enrolled in an upper-division public health course, but I quickly realized the Public Health major wasn’t the right fit for me. I *did* enjoy some classes, such as [Public Health 150D: Introduction to Health Policy and Management](https://classes.berkeley.edu/content/pbhlth-150d) and [Public Health 142: Intro to Biostatistics](https://classes.berkeley.edu/content/2023-fall-pbhlth-142-001-lec-001), but the rest of the major requirements did not interest me. I felt the opportunity cost of staying in the rest of those classes for the sake of completing the major just so I could have "Public Health BA" on my diploma was too high.
+At the beginning of Fall semester of junior year, I was enrolled in an upper-division public health course, but I quickly realized the Public Health major wasn’t the right fit for me. I *did* enjoy some classes, such as [Intro to Health Policy and Management](https://classes.berkeley.edu/content/pbhlth-150d) and [Biostatistics](https://classes.berkeley.edu/content/2023-fall-pbhlth-142-001-lec-001), but the rest of the major requirements did not interest me. I felt the opportunity cost of staying in the rest of those classes for the sake of completing the major just so I could have "Public Health BA" on my diploma was too high.
 
 What I took away from this:
 - ==follow your curiosity==
