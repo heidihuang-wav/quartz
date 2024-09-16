@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "notebook.heidihuang.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    displayDateType: ["created", "modified"],
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

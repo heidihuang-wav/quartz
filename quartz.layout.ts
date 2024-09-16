@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       "heidihuang.com":"https://heidihuang.com",
       "My Music": "https://www.youtube.com/channel/UCT8xc-TipLB9YF2cJVodhKQ",
       "Let's Chat!": "https://heidihuang.com/contact",
-      "RSS":"https://heidihuang.com/index.xml"
+      "RSS":"https://notebook.heidihuang.com/index.xml"
     },
   }),
 }

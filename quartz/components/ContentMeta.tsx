@@ -34,8 +34,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       } */ 
      //this doesn't work :(
 
-      if (fileData.dates) {
+      /*if (fileData.dates) {
         segments.push(`Last updated: ${formatDate(getDate(cfg, fileData)!, cfg.locale)}`)
+      }*/
+
+      if (fileData.dates) {
+        if (!cfg.displayDateType) {
+          throw new Error(
+            `Field 'displayDateType' was not set in the configuration object of quartz.config.ts. See https://quartz.jzhao.xyz/configuration#general-configuration for more details.`
+          );
+        }
+      
+        cfg.displayDateType.forEach((dateType) => {
+          let dateTypeLabel = (dateType === "created") ? 'Created:' : 'Modified:';
+          segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType])}`);
+        });
       }
       
       // Display reading time if enabled
