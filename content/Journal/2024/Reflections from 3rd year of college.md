@@ -28,7 +28,7 @@ I’ve never been more excited about my classes. The more I learn in class, the 
 
 ![[Images/ComingTogether.jpg]]
 #### Independent Project
-I wanted to have more responsibility and autonomy in lab, so I pushed myself to pursue an independent project. In a conversation with another friend, I learned that it's important to ==advocate for yourself==. Don't be afraid to ask for things (within reason, of course).
+I wanted to have more responsibility and autonomy in lab, so I pushed myself to pursue an independent project. Here, I learned that it's important to ==advocate for yourself==. Don't be afraid to ask for things (within reason, of course).
 
 I used the pressure of the Summer Undergraduate Research Fellowship (SURF) application deadline to help me come up with a written plan for my project. I was fortunate enough to be selected as a SURF fellow. Presenting for the first time ever at a lab meeting over the summer was nerve-wracking, given I was the only undergrad at the meeting, and this was also my first time ever presenting at any lab meeting. 
 
@@ -55,7 +55,7 @@ As I've learned more about my preferences, I’ve also embraced self-acceptance,
 
 Though I’m still not the best at texting (sorry to my friends who are reading this!), I hope to focus on maintaining and nurturing meaningful relationships. Because, ultimately, ==it’s the people who make Berkeley feel like home.==
 
-On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves—and I think I agree.
+On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves—and I think I agree[^1].
 ### Physical Health
 #### Lifting
 - Ever since I [[Yearly/2022 Initial Goal Setting|started lifting]], I've stayed really consistent with it, even throughout the three months I spent in Taiwan.
@@ -68,4 +68,6 @@ On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.c
 - More races to come next year!
 
 *** 
-Thanks to Alexey Guzey, Tiago Flora for reviewing drafts of this post.
+Thanks to Alexey Guzey and Tiago Flora for reviewing drafts of this post . 
+
+[^1] Still undecided on which theory of personality I find more convincing - is the self something we gradually uncover, like peeling back layers to reveal a core personality? Or do we start as a blank canvas, molded and shaped by our experiences over time, like play-doh?
