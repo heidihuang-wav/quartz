@@ -55,7 +55,7 @@ As I've learned more about my preferences, I’ve also embraced self-acceptance,
 
 Though I’m still not the best at texting (sorry to my friends who are reading this!), I hope to focus on maintaining and nurturing meaningful relationships. Because, ultimately, ==it’s the people who make Berkeley feel like home.==
 
-On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves—and I think I agree[^1].
+On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves—and I think I agree<sup id="fn1">[1](#fnref1)</sup>.
 ### Physical Health
 #### Lifting
 - Ever since I [[Yearly/2022 Initial Goal Setting|started lifting]], I've stayed really consistent with it, even throughout the three months I spent in Taiwan.
@@ -68,6 +68,6 @@ On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.c
 - More races to come next year!
 
 *** 
-Thanks to Alexey Guzey and Tiago Flora for reviewing drafts of this post . 
+Thanks to Alexey Guzey and Tiago Flora for reviewing drafts of this post. 
 
-[^1] Still undecided on which theory of personality I find more convincing - is the self something we gradually uncover, like peeling back layers to reveal a core personality? Or do we start as a blank canvas, molded and shaped by our experiences over time, like play-doh?
+<span id="fnref1">[1]</span> Still undecided on which theory of personality I find more convincing - is the self something we gradually uncover, like peeling back layers to reveal a core personality? Or do we start as a blank canvas, molded and shaped by our experiences over time, like play-doh?
