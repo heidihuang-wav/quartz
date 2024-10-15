@@ -8,7 +8,7 @@ date:
 ## Content
 ### Bio
 - [Bioenergetic Constraints on the Evolution of Complex Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3996473/) by Nick Lane
-	- Interesting [Manifold market](https://manifold.markets/RobertCousineau/will-mitochondrial-endosymbiosis-be?r=SGVpZGlIdWFuZw) that arises from this: Will "mitochondrial endosymbiosis" be considered the great filter in the fermi paradox by 2050? I.e. could mitrochondrial endosymbiosis (rare evolutionary event) be dominant explanation for why we haven't encountered intelligent alien civilizations? If not, what *will* the most promising explanation be? 
+	- Interesting [Manifold market](https://manifold.markets/RobertCousineau/will-mitochondrial-endosymbiosis-be?r=SGVpZGlIdWFuZw) that comes from this: Will "mitochondrial endosymbiosis" be considered the great filter in the fermi paradox by 2050? I.e. could mitrochondrial endosymbiosis (rare evolutionary event) be the dominant explanation for why we haven't encountered intelligent alien civilizations? If not, what *will* the most promising explanation be? 
 #### Papers
 - Achieving optical transparency in live animals with absorbing molecules ([pdf](https://www.science.org/doi/pdf/10.1126/science.adm6869)) 
 	- tl;dr dye from Doritos makes tissues transparent! Useful for *in vivo* imaging
