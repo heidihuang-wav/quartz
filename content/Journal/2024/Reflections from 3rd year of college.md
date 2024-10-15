@@ -13,26 +13,26 @@ Out of all three years so far, I’ve grown the most in my junior year. Here’s
 At the beginning of Fall semester of junior year, I was enrolled in an upper-division public health course, but I quickly realized the Public Health major wasn’t the right fit for me. I *did* enjoy some classes, such as [Intro to Health Policy and Management](https://classes.berkeley.edu/content/pbhlth-150d) and [Biostatistics](https://classes.berkeley.edu/content/2023-fall-pbhlth-142-001-lec-001), but the rest of the major requirements did not interest me. I felt the opportunity cost of staying in the rest of those classes for the sake of completing the major just so I could have "Public Health BA" on my diploma was too high.
 
 What I took away from this:
-- ==follow your curiosity==
-- ==consider whether your actions are serving you==, or if they are driven by inertia 
+- follow your curiosity
+- consider whether your actions are serving you, or if they are driven by inertia 
 
 A conversation with a friend who majored in public health and later pivoted to Molecular and Cell Biology (MCB) further encouraged me to drop the major. During office hours, a public health professor had explained to him that many universities don’t offer undergraduate public health programs because public health is a lens through which to apply foundational knowledge gained in fields like chemistry, infectious disease, or political science—knowledge that is typically built during undergrad—with public health pursued at the graduate level.
 
-I decided to drop the public health major and commit my time to MCB in the fall of my third year. ==Instead of pursuing breadth, I wanted to focus on depth==. Around the same time, I had also just joined the Wilson Lab. After reading Walter Isaacson’s *[[Reading List |The Code Breaker]]* the summer before, I became fascinated by CRISPR. I reached out to Prof. Wilson (aka Ross), whose lab focuses on CRISPR delivery, to ask about joining as an undergrad researcher. To my excitement, Ross responded! I couldn't wait to start learning all about biochemistry and genome editing from the very people I had just read about in Issacson's book.
+I decided to drop the public health major and commit my time to MCB in the fall of my third year. Instead of pursuing breadth, I wanted to focus on depth. Around the same time, I had also just joined the Wilson Lab. After reading Walter Isaacson’s *[[Reading List |The Code Breaker]]* the summer before, I became fascinated by CRISPR. I reached out to Prof. Wilson (aka Ross), whose lab focuses on CRISPR delivery, to ask about joining as an undergrad researcher. Ross responded! I was very excited to start learning all about biochemistry and genome editing from the very people I had just read about in Issacson's book.
 ### Research
 I would try my best to attend as many lab meetings as I could, get to know everyone in lab, ask questions, and read relevant papers. I wanted to make the Wilson Lab a priority. 
 
-I've spent ~1 year at the Wilson Lab. So far, ==I’ve found translational research incredibly rewarding==. My coursework in biochemistry and genetics has reinforced this. Now, in my fourth year, I’m taking classes in drug delivery, experimental methods, and therapeutics discovery and development. 
+I've spent ~1 year at the Wilson Lab. So far, I’ve found translational research incredibly rewarding. My coursework in biochemistry and genetics has reinforced this. Now, in my fourth year, I’m taking classes in drug delivery, experimental methods, and therapeutics discovery and development. 
 
 I’ve never been more excited about my classes. The more I learn in class, the better I understand my research, which in turn helps me understand what I learn in class better—a true virtuous cycle.
 
 ![[Images/ComingTogether.jpg]]
 #### Independent Project
-I wanted to have more responsibility and autonomy in lab, so I pushed myself to pursue an independent project. Here, I learned that it's important to ==advocate for yourself==. Don't be afraid to ask for things (within reason, of course).
+I wanted to have more responsibility and autonomy in lab, so I pushed myself to pursue an independent project. Here, I learned that it's important to advocate for yourself. Don't be afraid to ask for things (within reason, of course).
 
 I used the pressure of the Summer Undergraduate Research Fellowship (SURF) application deadline to help me come up with a written plan for my project. I was fortunate enough to be selected as a SURF fellow. Presenting for the first time ever at a lab meeting over the summer was nerve-wracking, given I was the only undergrad at the meeting, and this was also my first time ever presenting at any lab meeting. 
 
-In the end, the presentation went well, and I received useful feedback (e.g. how to make my graphs clearer and how to adjust color schemes for color-blind accessibility). I’m continuing to build on my SURF project and plan to turn it into my senior thesis.
+The presentation went well, and I received useful feedback (e.g. how to make my graphs clearer and how to adjust color schemes for color-blind accessibility). I’m continuing to build on my SURF project and plan to turn it into my senior thesis.
 
 My time in the Wilson Lab has solidified my desire to pursue an MD-PhD. I feel incredibly supported here, and I hope to make the most of the time I have left at Berkeley.
 ### Taking the MCAT
@@ -53,21 +53,28 @@ I'm grateful I said "yes" to a wide range of experiences during my first and sec
 
 As I've learned more about my preferences, I’ve also embraced self-acceptance, letting go of concerns about how others perceive my likes and dislikes. I’m more comfortable with who I am. 
 
-Though I’m still not the best at texting (sorry to my friends who are reading this!), I hope to focus on maintaining and nurturing meaningful relationships. Because, ultimately, ==it’s the people who make Berkeley feel like home.==
+Though I’m still not the best at texting (sorry to my friends who are reading this!), I hope to focus on maintaining and nurturing meaningful relationships. Because, ultimately, it’s the people who make Berkeley feel like home.
 
-On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves—and I think I agree<sup id="fn1">[1](#fnref1)</sup>.
+On growing into myself: I had a conversation with [Alexey Guzey](https://guzey.com/), who said people don’t change much, they just become more themselves. I'm not sure if I agree with that statement entirely, but I think it is true for me<sup id="fn1">[1](#fnref1)</sup>.
 ### Physical Health
 #### Lifting
 - Ever since I [[Yearly/2022 Initial Goal Setting|started lifting]], I've stayed really consistent with it, even throughout the three months I spent in Taiwan.
 - I'm proud of this consistency, since I used to quit things halfway through a lot growing up (e.g. the piano).
 #### Running
-- I used to hate running. Things changed in my junior year, in which I ran my first ever race (a 5k) and ran the longest distance I've ever run (15k).
+- I used to hate running. Things changed in my junior year, in which I ran my first ever race (a 5k) and the longest distance I've ever run continuously (15k).
 
 ![[Images/B2B.jpeg]]
 
 - More races to come next year!
 
+### tl;dr (my takeaways from junior year)
+- follow your curiosity
+- consider whether your actions are serving you, or if they are driven by inertia 
+- now that I've found my professional niche, it's time for me to focus on depth instead of breadth
+- advocate for yourself
+- the people make the place - spend time on meaningful relationships
+
 *** 
 Thanks to Alexey Guzey and Tiago Flora for reviewing drafts of this post. 
-
+### Footnotes
 <span id="fnref1">[1]</span> Still undecided on which theory of personality I find more convincing - is the self something we gradually uncover, like peeling back layers to reveal a core personality? Or do we start as a blank canvas, molded and shaped by our experiences over time, like play-doh?
