@@ -46,7 +46,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         }
       
         cfg.displayDateType.forEach((dateType) => {
-          let dateTypeLabel = (dateType === "created") ? 'Created:' : 'Modified:';
+          let dateTypeLabel = (dateType === "created") ? 'Modified:' : 'Created:';
           segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType])}`);
         });
       }
